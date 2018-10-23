@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id>0102-311X</journal-id>
+      <journal-title><![CDATA[Cadernos de Sa�de P�blica]]></journal-title>
+      <abbrev-journal-title><![CDATA[Cad. Sa�de P�blica]]></abbrev-journal-title>
+      <issn>0102-311X</issn>
+      <publisher>
+        <publisher-name><![CDATA[Escola Nacional de Sa�de P�blica Sergio Arouca, Funda��o Oswaldo Cruz]]></publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id>S0102-311X2018001005001</article-id>
+      <article-id pub-id-type="doi">10.1590/0102-311x00208217</article-id>
+      <title-group>
+        <article-title xml:lang="pt">
+          <![CDATA[Indica��o, acesso e utiliza��o de medicamentos para doen�as respirat�rias cr�nicas no Brasil: resultados da Pesquisa Nacional sobre Acesso, Utiliza��o e Promo��o do Uso Racional de Medicamentos no Brasil (PNAUM), 2014]]>
+        </article-title>
+        <article-title xml:lang="en">
+          <![CDATA[Indication, access, and use of medicines for chronic respiratory diseases in Brazil: results from the National Survey on Access, Utilization, and Promotion of Rational Use of Medicines in Brazil (PNAUM), 2014]]>
+        </article-title>
+        <article-title xml:lang="es">
+          <![CDATA[Indicaci�n, acceso y utilizaci�n de medicamentos para enfermedades respiratorias cr�nicas en Brasil: resultados de la Encuesta Nacional sobre Acceso, Utilizaci�n y Promoci�n del Uso Racional de Medicamentos en Brasil (PNAUM), 2014]]>
+        </article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Leal]]></surname>
+            <given-names><![CDATA[Lisiane Freitas]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Bertoldi]]></surname>
+            <given-names><![CDATA[Andrea D�maso]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Menezes]]></surname>
+            <given-names><![CDATA[Ana Maria Baptista]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Borges]]></surname>
+            <given-names><![CDATA[Rog�rio Boff]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Mengue]]></surname>
+            <given-names><![CDATA[Sotero Serrate]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Gazzana]]></surname>
+            <given-names><![CDATA[Marcelo Basso]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Pizzol]]></surname>
+            <given-names><![CDATA[Tatiane da Silva Dal]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+          <xref ref-type="aff" rid="Aaf"/>
+        </contrib>
+      </contrib-group>
+      <aff id="Af1">
+        <institution><![CDATA[,Universidade Federal do Rio Grande do Sul Programa de P�s-gradua��o em Epidemiologia ]]></institution>
+        <addr-line><![CDATA[Porto Alegre ]]></addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="Af2">
+        <institution><![CDATA[,Universidade Federal de Pelotas Faculdade de Medicina ]]></institution>
+        <addr-line><![CDATA[Pelotas ]]></addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="Af3">
+        <institution><![CDATA[,Universidade Federal do Rio Grande do Sul Programa de P�s-gradua��o em Ci�ncias Pneumol�gicas ]]></institution>
+        <addr-line><![CDATA[Porto Alegre ]]></addr-line>
+        <country>Brazil</country>
+      </aff>
+      <aff id="Af4">
+        <institution><![CDATA[,Universidade Federal do Rio Grande do Sul Faculdade de Farm�cia ]]></institution>
+        <addr-line><![CDATA[Porto Alegre ]]></addr-line>
+        <country>Brazil</country>
+      </aff>
+      <pub-date pub-type="pub">
+        <day>00</day>
+        <month>00</month>
+        <year>2018</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>00</day>
+        <month>00</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>34</volume>
+      <numero>10</numero>
+      <copyright-statement/>
+      <copyright-year/>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-311X2018001005001&amp;lng=en&amp;nrm=iso"></self-uri>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-311X2018001005001&amp;lng=en&amp;nrm=iso"></self-uri>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-311X2018001005001&amp;lng=en&amp;nrm=iso"></self-uri>
+      <abstract abstract-type="short" xml:lang="pt"><p>
+        <![CDATA[O objetivo foi estimar a preval�ncia de doen�as respirat�rias cr�nicas autorreferidas, a indica��o, o acesso e o uso de medicamentos, bem como fontes de obten��o, na popula��o adulta brasileira. Foram analisados dados de adultos com idade maior ou igual a 20 anos, provenientes da Pesquisa Nacional sobre Acesso, Utiliza��o e Promo��o do Uso Racional de Medicamentos no Brasil (PNAUM), realizada entre setembro de 2013 e fevereiro de 2014. A preval�ncia de doen�as respirat�rias cr�nicas foi de 3% (IC95%: 2,7-3,3). Desses, 58,1% (IC95%: 51,8-64,0) tinham indica��o de tratamento farmacol�gico. Daqueles com indica��o de tratamento, 77,1% (IC95%: 71,0-82,8) estavam utilizando pelo menos um dos medicamentos indicados. O acesso total � terapia foi de 91,4% (IC95%: 79,9-96,6), sendo que mais da metade das pessoas com doen�as respirat�rias cr�nicas adquiria pelo menos um de seus medicamentos em farm�cias comerciais (57,3%). A classe de medicamentos mais referida foi a associa��o beta-2 agonista de longa dura��o e corticosteroides sob a forma inalat�ria, cujo representante mais frequente foi a associa��o budesonida/formoterol (20,3%; IC95%: 16,0-25,4). De acordo com o nosso estudo, a preval�ncia de doen�as respirat�rias cr�nicas autorreferida foi inferior a trabalhos previamente publicados para a popula��o brasileira. Verificou-se que quase metade da popula��o que referiu doen�as respirat�rias cr�nicas n�o tinha indica��o de tratamento farmacol�gico. J� aqueles com indica��o, aproximadamente um quarto n�o utilizava os medicamentos no per�odo do estudo e, para os que usavam, embora o acesso fosse elevado, precisavam pagar para adquirir seus tratamentos.]]></p>
+      </abstract>
+      <abstract abstract-type="short" xml:lang="en"><p>
+        <![CDATA[The study aimed to estimate the prevalence of self-reported chronic respiratory diseases and the indication, access to, and use of medicines, as well as their sources, in the Brazilian adult population. Data were analyzed on adults 20 years and older from the National Survey on Access, Utilization, and Promotion of Rational Use of Medicines in Brazil (PNAUM), conducted from September 2013 to February 2014. Prevalence of chronic respiratory diseases was 3% (95%CI: 2.7-3.3). Of these individuals, 58.1% (95%CI: 51.8-64.0) had an indication for pharmacological treatment. Of those with indication for treatment, 77.1% (95%CI: 71.0-82.8) were using at least one of the prescribed drugs. Total access to therapy was 91.4% (95%CI: 79.9-96.6), and more than half of individuals with chronic respiratory diseases purchased at least one of the drugs in retail pharmacies (57.3%). The most frequently reported drug class was the association of a corticosteroid plus a long-acting beta-2 agonist in inhalation form, the most common example of which was the association budesonide/formoterol (20.3%; 95%CI: 16.0-25.4). According to our study, prevalence of self-reported chronic respiratory diseases was lower than in previous studies published on the Brazilian population. Nearly half of the population reporting chronic respiratory diseases did not have an indication for pharmacological treatment. Among those with such indication, approximately one-fourth were not using medications during the study period, and for those who were on medication, although access was high, they had to pay for their medicines.]]></p>
+      </abstract>
+      <abstract abstract-type="short" xml:lang="es"><p>
+        <![CDATA[El objetivo fue estimar la prevalencia de enfermedades respiratorias cr�nicas autoinformadas, la indicaci�n, el acceso y el uso de medicamentos, as� como fuentes de obtenci�n, en poblaci�n adulta brasile�a. Se analizaron datos de adultos con una edad mayor o igual a 20 a�os, provenientes de la Encuesta Nacional sobre Acceso, Utilizaci�n y Promoci�n del Uso Racional de Medicamentos en Brasil (PNAUM), realizada entre septiembre de 2013 y febrero de 2014. La prevalencia de enfermedades respiratorias cr�nicas fue de un 3% (IC95%: 2,7-3,3). De estos, un 58,1% (IC95%: 51,8-64,0) ten�an indicaci�n de tratamiento farmacol�gico. De aquellos con indicaci�n de tratamiento, un 77,1% (IC95%: 71,0-82,8) estaban utilizando, por lo menos, uno de los medicamentos indicados. El acceso total a la terapia fue de un 91,4% (IC95%: 79,9-96,6), siendo que m�s de la mitad de las personas con enfermedades respiratorias cr�nicas adquir�a por lo menos uno de sus medicamentos en farmacias comerciales (57,3%). La clase de medicamentos m�s referida fue la asociaci�n beta-2 agonista de larga duraci�n y corticosteroides en forma inhalatoria, cuyo representante m�s frecuente fue la asociaci�n budesonida/formoterol (20,3%; IC95%: 16,0-25,4). De acuerdo con nuestro estudio, la prevalencia de enfermedades respiratorias cr�nicas autoinformada fue inferior a trabajos previamente publicados para la poblaci�n brasile�a. Se verific� que casi la mitad de la poblaci�n que refiri� enfermedades respiratorias cr�nicas no ten�a indicaci�n de tratamiento farmacol�gico. Ya aquellos que ten�an indicaci�n, aproximadamente un cuarto, no utilizaba los medicamentos en el per�odo del estudio y, para los que lo usaban, aunque el acceso fuese elevado, necesitaban pagar para adquirir sus tratamientos.]]></p>
+      </abstract>
+      <kwd-group>
+        <kwd lng="pt"><![CDATA[Doen�as Respirat�rias]]></kwd>
+        <kwd lng="pt"><![CDATA[Medicamentos de Uso Cont�nuo]]></kwd>
+        <kwd lng="pt"><![CDATA[Uso de Medicamentos]]></kwd>
+        <kwd lng="pt"><![CDATA[Acesso aos Servi�os de Sa�de]]></kwd>
+        <kwd lng="pt"><![CDATA[Inqu�ritos Epidemiol�gicos]]></kwd>
+        <kwd lng="en"><![CDATA[Respiratory Tract Diseases]]></kwd>
+        <kwd lng="en"><![CDATA[Drugs of Continuous Use]]></kwd>
+        <kwd lng="en"><![CDATA[Drug Utilization]]></kwd>
+        <kwd lng="en"><![CDATA[Health Services Accessibility]]></kwd>
+        <kwd lng="en"><![CDATA[Health Surveys]]></kwd>
+        <kwd lng="es"><![CDATA[Enfermedades Respiratorias]]></kwd>
+        <kwd lng="es"><![CDATA[Medicamentos de Uso Cont�nuo]]></kwd>
+        <kwd lng="es"><![CDATA[Utilizaci�n de Medicamentos]]></kwd>
+        <kwd lng="es"><![CDATA[Encuestas Epidemiol�gicas]]></kwd>
+        <kwd lng="es"><![CDATA[Accesibilidad a los Servicios de Salud]]></kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label><nlm-citation citation-type="book">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Abajobir]]></surname>
+            <given-names><![CDATA[AA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abate]]></surname>
+            <given-names><![CDATA[KH]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbafati]]></surname>
+            <given-names><![CDATA[C]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbas]]></surname>
+            <given-names><![CDATA[KM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abd-Allah]]></surname>
+            <given-names><![CDATA[F]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abera]]></surname>
+            <given-names><![CDATA[SF]]></given-names>
+          </name>
+        </person-group>
+        <source><![CDATA[Global, regional, and national under-5]]></source>
+        <year>1970</year>
+        <publisher-loc><![CDATA[mortality ]]></publisher-loc>
+        <publisher-name><![CDATA[adult mortality, age-specific mortality, and life expectancy]]></publisher-name>
+      </nlm-citation>
+    </ref>
+    <ref id="B2">
+      <label>2</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Abajobir]]></surname>
+            <given-names><![CDATA[AA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbafati]]></surname>
+            <given-names><![CDATA[C]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbas]]></surname>
+            <given-names><![CDATA[KM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abd-Allah]]></surname>
+            <given-names><![CDATA[F]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abera]]></surname>
+            <given-names><![CDATA[SF]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Aboyans]]></surname>
+            <given-names><![CDATA[V]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Global, regional, and national age-sex specific mortality for 264 causes of death, 1980-2016: a systematic analysis for the Global Burden of Disease Study 2016.]]>
+        </article-title>
+        <source><![CDATA[Lancet]]></source>
+        <year>2017</year>
+        <volume>390</volume>
+        <page-range>1151-210</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B3">
+      <label>3</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Abajobir]]></surname>
+            <given-names><![CDATA[AA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abate]]></surname>
+            <given-names><![CDATA[KH]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbafati]]></surname>
+            <given-names><![CDATA[C]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abbas]]></surname>
+            <given-names><![CDATA[KM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abd-Allah]]></surname>
+            <given-names><![CDATA[F]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abdulkader]]></surname>
+            <given-names><![CDATA[RS]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990-2016: a systematic analysis for the Global Burden of Disease Study 2016.]]>
+        </article-title>
+        <source><![CDATA[Lancet]]></source>
+        <year>2017</year>
+        <volume>390</volume>
+        <page-range>1211-59</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B4">
+      <label>4</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Alleyne]]></surname>
+            <given-names><![CDATA[G]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Binagwaho]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Haines]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Jahan]]></surname>
+            <given-names><![CDATA[S]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Nugent]]></surname>
+            <given-names><![CDATA[R]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Rojhani]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Embedding non-communicable diseases in the post-2015 development agenda]]>
+        </article-title>
+        <source><![CDATA[Lancet]]></source>
+        <year>2013</year>
+        <volume>381</volume>
+        <page-range>566-74</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B5">
+      <label>5</label>
+      <nlm-citation citation-type="book">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Alwan]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+        </person-group>
+        <source><![CDATA[Global status report on noncommunicable diseases 2010]]></source>
+        <year>2011</year>
+        <publisher-loc><![CDATA[Geneva ]]></publisher-loc>
+        <publisher-name><![CDATA[World Health Organization]]></publisher-name>
+      </nlm-citation>
+    </ref>
+    <ref id="B6">
+      <label>6</label>
+      <nlm-citation citation-type="book">
+        <collab>Minist�rio da Sa�de</collab>
+        <source><![CDATA[Plano de a��es estrat�gicas para o enfrentamento das doen�as cr�nicas n�o transmiss�veis (DCNT) no Brasil: 2011-2022]]></source>
+        <year>2011</year>
+        <publisher-loc><![CDATA[Bras�lia ]]></publisher-loc>
+        <publisher-name><![CDATA[Minist�rio da Sa�de]]></publisher-name>
+      </nlm-citation>
+    </ref>
+    <ref id="B7">
+      <label>7</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Malta]]></surname>
+            <given-names><![CDATA[DC]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[TP]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Santos]]></surname>
+            <given-names><![CDATA[MAS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Andrade]]></surname>
+            <given-names><![CDATA[SSCA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Silva]]></surname>
+            <given-names><![CDATA[MMA]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Avan�os do Plano de A��es Estrat�gicas para o Enfrentamento das Doen�as Cr�nicas n�o Transmiss�veis no Brasil, 2011-2015]]>
+        </article-title>
+        <collab>Grupo T�cnico de Monitoramento do Plano de DCNT</collab>
+        <source><![CDATA[Epidemiol Serv Sa�de]]></source>
+        <year>2016</year>
+        <volume>25</volume>
+        <page-range>373-90</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B8">
+      <label>8</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Schmidt]]></surname>
+            <given-names><![CDATA[MI]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Duncan]]></surname>
+            <given-names><![CDATA[BB]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Silva]]></surname>
+            <given-names><![CDATA[GA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Menezes]]></surname>
+            <given-names><![CDATA[AM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Monteiro]]></surname>
+            <given-names><![CDATA[CA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Barreto]]></surname>
+            <given-names><![CDATA[SM]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Chronic non-communicable diseases in Brazil burden and current challenges]]>
+        </article-title>
+        <source><![CDATA[Lancet]]></source>
+        <year>2011</year>
+        <volume>377</volume>
+        <page-range>1949-61</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B9">
+      <label>9</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Soriano]]></surname>
+            <given-names><![CDATA[JB]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abajobir]]></surname>
+            <given-names><![CDATA[AA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abate]]></surname>
+            <given-names><![CDATA[KH]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Abera]]></surname>
+            <given-names><![CDATA[SF]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Agrawal]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Ahmed]]></surname>
+            <given-names><![CDATA[MB]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Global, regional, and national deaths, prevalence, disability-adjusted life years, and years lived with disability for chronic obstructive pulmonary disease and asthma, 1990-2015: a systematic analysis for the Global Burden of Disease Study 2015.]]>
+        </article-title>
+        <source><![CDATA[Lancet Respir Med]]></source>
+        <year>2017</year>
+        <volume>5</volume>
+        <page-range>691-706</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B10">
+      <label>10</label>
+      <nlm-citation citation-type="">
+        <collab>World Health Organization</collab>
+        <article-title xml:lang=""><![CDATA[Global alliance against chronic respiratory diseases (GARD)]]></article-title>
+        <source><![CDATA[Executive Committee and Planning Group Meeting.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B11">
+      <label>11</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Beran]]></surname>
+            <given-names><![CDATA[D]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Zar]]></surname>
+            <given-names><![CDATA[HJ]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Perrin]]></surname>
+            <given-names><![CDATA[C]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Menezes]]></surname>
+            <given-names><![CDATA[AM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Burney]]></surname>
+            <given-names><![CDATA[P]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang="">
+          <![CDATA[Burden of asthma and chronic obstructive pulmonary disease and access to essential medicines in low-income and middle-income countries]]>
+        </article-title>
+        <source><![CDATA[Lancet Respir Med]]></source>
+        <year>2015</year>
+        <volume>3</volume>
+        <page-range>159-70</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B12">
+      <label>12</label>
+      <nlm-citation citation-type="book">
+        <collab>Forum of International Respiratory Societies</collab>
+        <source><![CDATA[The global impact of respiratory disease.]]></source>
+        <year>2017</year>
+        <edition>2nd</edition>
+        <publisher-loc><![CDATA[Sheffield ]]></publisher-loc>
+        <publisher-name><![CDATA[European Respiratory Society]]></publisher-name>
+      </nlm-citation>
+    </ref>
+    <ref id="B13">
+      <label>13</label>
+      <nlm-citation citation-type="">
+        <collab>World Health Organization</collab>
+        <source><![CDATA[Noncommunicable diseases prematurely take 16 million lives annually, WHO urges more action.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B14">
+      <label>14</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Ramos]]></surname>
+            <given-names><![CDATA[LR]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Bertoldi]]></surname>
+            <given-names><![CDATA[AD]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Farias]]></surname>
+            <given-names><![CDATA[MR]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[MA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Luiza]]></surname>
+            <given-names><![CDATA[VL]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Polypharmacy and polymorbidity in older adults in Brazil a public health challenge]]></article-title>
+        <source><![CDATA[Rev Sa�de P�blica]]></source>
+        <year>2016</year>
+        <volume>50</volume>
+        <numero>^s2</numero>
+        <issue>^s2</issue>
+        <supplement>2</supplement>
+        <page-range>9s</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B15">
+      <label>15</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[MA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Luiza]]></surname>
+            <given-names><![CDATA[VL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Mengue]]></surname>
+            <given-names><![CDATA[SS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Arrais]]></surname>
+            <given-names><![CDATA[PSD]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Farias]]></surname>
+            <given-names><![CDATA[MR]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Access to medicines for chronic diseases in Brazil a multidimensional approach]]></article-title>
+        <source><![CDATA[Rev Sa�de P�blica]]></source>
+        <year>2016</year>
+        <volume>50</volume>
+        <numero>^s2</numero>
+        <issue>^s2</issue>
+        <supplement>2</supplement>
+        <page-range>6s</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B16">
+      <label>16</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Luiza]]></surname>
+            <given-names><![CDATA[VL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[MA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Costa]]></surname>
+            <given-names><![CDATA[KS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Mengue]]></surname>
+            <given-names><![CDATA[SS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Arrais]]></surname>
+            <given-names><![CDATA[PSD]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Free access to medicines for the treatment of chronic diseases in Brazil]]></article-title>
+        <source><![CDATA[Rev Sa�de P�blica]]></source>
+        <year>2016</year>
+        <volume>50</volume>
+        <numero>^s2</numero>
+        <issue>^s2</issue>
+        <supplement>2</supplement>
+        <page-range>7s</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B17">
+      <label>17</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Costa]]></surname>
+            <given-names><![CDATA[KS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Mengue]]></surname>
+            <given-names><![CDATA[SS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Vieira]]></surname>
+            <given-names><![CDATA[MLFP]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Malta]]></surname>
+            <given-names><![CDATA[DC]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Silva J�nior]]></surname>
+            <given-names><![CDATA[JB]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Uso de medicamentos para tratamento de doen�as cr�nicas n�o transmiss�veis no Brasil resultados da Pesquisa Nacional de Sa�de, 2013]]></article-title>
+        <source><![CDATA[Epidemiol Serv Sa�de]]></source>
+        <year>2015</year>
+        <volume>24</volume>
+        <page-range>315-23</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B18">
+      <label>18</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Luiza]]></surname>
+            <given-names><![CDATA[VL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[MA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Arrais]]></surname>
+            <given-names><![CDATA[PSD]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Ramos]]></surname>
+            <given-names><![CDATA[LR]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Dal Pizzol]]></surname>
+            <given-names><![CDATA[TS]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Catastrophic expenditure on medicines in Brazil]]></article-title>
+        <source><![CDATA[Rev Sa�de P�blica]]></source>
+        <year>2016</year>
+        <volume>50</volume>
+        <numero>^s2</numero>
+        <issue>^s2</issue>
+        <supplement>2</supplement>
+        <page-range>15s</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B19">
+      <label>19</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Bertoldi]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Helfer]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Camargo]]></surname>
+            <given-names><![CDATA[AL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Kanavos]]></surname>
+            <given-names><![CDATA[P]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Is the Brazilian pharmaceutical policy ensuring population access to essential medicines]]></article-title>
+        <source><![CDATA[Global Health]]></source>
+        <year>2012</year>
+        <volume>8</volume>
+        <page-range>6</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B20">
+      <label>20</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Mengue]]></surname>
+            <given-names><![CDATA[SS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Bertoldi]]></surname>
+            <given-names><![CDATA[AD]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Boing]]></surname>
+            <given-names><![CDATA[AC]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Tavares]]></surname>
+            <given-names><![CDATA[NUL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Dal Pizzol]]></surname>
+            <given-names><![CDATA[TS]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Oliveira]]></surname>
+            <given-names><![CDATA[MA]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[National Survey on Access, Use and Promotion of Rational Use of Medicines (PNAUM) household survey component methods]]></article-title>
+        <source><![CDATA[Rev Sa�de P�blica]]></source>
+        <year>2016</year>
+        <volume>50</volume>
+        <numero>^s2</numero>
+        <issue>^s2</issue>
+        <supplement>2</supplement>
+        <page-range>4s</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B21">
+      <label>21</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Spitzer]]></surname>
+            <given-names><![CDATA[WO]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Drugs as determinants of health and disease in the population an orientation to the bridge science of pharmacoepidemiology]]></article-title>
+        <source><![CDATA[J Clin Epidemiol]]></source>
+        <year>1991</year>
+        <volume>44</volume>
+        <page-range>823-30</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B22">
+      <label>22</label>
+      <nlm-citation citation-type="">
+        <collab>Canadian Institute for Health Information (CIHI)</collab>
+        <source><![CDATA[About CIHI.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B23">
+      <label>23</label>
+      <nlm-citation citation-type="">
+        <collab>Centers for Disease Control and Prevention</collab>
+        <source><![CDATA[National Health and Nutrition Examination Survey 2011-2012. Data documentation, codebook, and frequencies.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B24">
+      <label>24</label>
+      <nlm-citation citation-type="">
+        <collab>Australian Bureau of Statistics</collab>
+        <source><![CDATA[Australian Health Survey.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B25">
+      <label>25</label>
+      <nlm-citation citation-type="">
+        <collab>Australian Bureau of Statistics</collab>
+        <source><![CDATA[National health survey: first results. Australia 2014-2015.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B26">
+      <label>26</label>
+      <nlm-citation citation-type="">
+        <collab>Eurostat</collab>
+        <source><![CDATA[Respiratory diseases statistics.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B27">
+      <label>27</label>
+      <nlm-citation citation-type="">
+        <collab>Global Initiative for Asthma</collab>
+        <source><![CDATA[Global strategy for asthma management and prevention, 2017.]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B28">
+      <label>28</label>
+      <nlm-citation citation-type="">
+        <collab>Global Initiative for Chronic Obstructive Lung Disease</collab>
+        <source><![CDATA[Global strategy for diagnosis, management and prevention of chronic obstructive pulmonary disease (2018 report).]]></source>
+        <year></year>
+      </nlm-citation>
+    </ref>
+    <ref id="B29">
+      <label>29</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Evans]]></surname>
+            <given-names><![CDATA[J]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Chen]]></surname>
+            <given-names><![CDATA[Y]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Camp]]></surname>
+            <given-names><![CDATA[PG]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Bowie]]></surname>
+            <given-names><![CDATA[DM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[McRae]]></surname>
+            <given-names><![CDATA[L]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Estimating the prevalence of COPD in Canada reported diagnosis versus measured airflow obstruction]]></article-title>
+        <source><![CDATA[Health Rep]]></source>
+        <year>2014</year>
+        <volume>25</volume>
+        <page-range>3-11</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B30">
+      <label>30</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Aaron]]></surname>
+            <given-names><![CDATA[SD]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Vandemheen]]></surname>
+            <given-names><![CDATA[KL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[FitzGerald]]></surname>
+            <given-names><![CDATA[JM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Ainslie]]></surname>
+            <given-names><![CDATA[M]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Gupta]]></surname>
+            <given-names><![CDATA[S]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Lemi�re]]></surname>
+            <given-names><![CDATA[C]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[Reevaluation of diagnosis in adults with physician-diagnosed asthma]]></article-title>
+        <source><![CDATA[JAMA]]></source>
+        <year>2017</year>
+        <volume>317</volume>
+        <page-range>269-79</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B31">
+      <label>31</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Moreira]]></surname>
+            <given-names><![CDATA[GL]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Manzano]]></surname>
+            <given-names><![CDATA[BM]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Gazzotti]]></surname>
+            <given-names><![CDATA[MR]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Nascimento]]></surname>
+            <given-names><![CDATA[OA]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Perez-Padilla]]></surname>
+            <given-names><![CDATA[R]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Menezes]]></surname>
+            <given-names><![CDATA[AMB]]></given-names>
+          </name>
+        </person-group>
+        <article-title xml:lang=""><![CDATA[PLATINO, a nine-year follow-up study of COPD in the city of S�o Paulo, Brazil the problem of underdiagnosis]]></article-title>
+        <source><![CDATA[J Bras Pneumol]]></source>
+        <year>2014</year>
+        <volume>40</volume>
+        <page-range>30-7</page-range>
+      </nlm-citation>
+    </ref>
+    <ref id="B32">
+      <label>32</label>
+      <nlm-citation citation-type="journal">
+        <person-group person-group-type="author">
+          <name>
+            <surname><![CDATA[Pavord]]></surname>
+            <given-names><![CDATA[ID]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Beasley]]></surname>
+            <given-names><![CDATA[R]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Agusti]]></surname>
+            <given-names><![CDATA[A]]></given-names>
+          </name>
+          <name>
+            <surname><![CDATA[Anderson]]></surname>
+<given-names><![CDATA[GP]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bel]]></surname>
+<given-names><![CDATA[E]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Brusselle]]></surname>
+<given-names><![CDATA[G]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[After asthma redefining airways diseases]]></article-title>
+<source><![CDATA[Lancet]]></source>
+<year>2018</year>
+<volume>391</volume>
+<page-range>350-400</page-range></nlm-citation>
+</ref>
+<ref id="B33">
+<label>33</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[A�t-Khaled]]></surname>
+<given-names><![CDATA[N]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Enarson]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bousquet]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Chronic respiratory diseases in developing countries the burden and strategies for prevention and management]]></article-title>
+<source><![CDATA[Bull World Health Organ]]></source>
+<year>2001</year>
+<volume>79</volume>
+<page-range>971-9</page-range></nlm-citation>
+</ref>
+<ref id="B34">
+<label>34</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Montes de Oca]]></surname>
+<given-names><![CDATA[M]]></given-names>
+</name>
+<name>
+<surname><![CDATA[T�lamo]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Perez-Padilla]]></surname>
+<given-names><![CDATA[R]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Lopez]]></surname>
+<given-names><![CDATA[MV]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mui�o]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jardim]]></surname>
+<given-names><![CDATA[JRB]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Use of respiratory medication in five Latin American cities: the PLATINO study.]]></article-title>
+<source><![CDATA[Pulm Pharmacol Ther]]></source>
+<year>2008</year>
+<volume>21</volume>
+<page-range>788-93</page-range></nlm-citation>
+</ref>
+<ref id="B35">
+<label>35</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Peters]]></surname>
+<given-names><![CDATA[SP]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Jones]]></surname>
+<given-names><![CDATA[CA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Haselkorn]]></surname>
+<given-names><![CDATA[T]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Mink]]></surname>
+<given-names><![CDATA[DR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Valacer]]></surname>
+<given-names><![CDATA[DJ]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Weiss]]></surname>
+<given-names><![CDATA[ST]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Real-world Evaluation of Asthma Control and Treatment (REACT) findings from a national web-based survey]]></article-title>
+<source><![CDATA[J Allergy Clin Immunol]]></source>
+<year>2007</year>
+<volume>119</volume>
+<page-range>1454-61</page-range></nlm-citation>
+</ref>
+<ref id="B36">
+<label>36</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Malta]]></surname>
+<given-names><![CDATA[DC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Stopa]]></surname>
+<given-names><![CDATA[SR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Szwarcwald]]></surname>
+<given-names><![CDATA[CL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Gomes]]></surname>
+<given-names><![CDATA[NL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Silva J�nior]]></surname>
+<given-names><![CDATA[JB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Reis]]></surname>
+<given-names><![CDATA[AAC]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[A vigil�ncia e o monitoramento das principais doen�as cr�nicas n�o transmiss�veis no Brasil Pesquisa Nacional de Sa�de, 2013]]></article-title>
+<source><![CDATA[Rev Bras Epidemiol]]></source>
+<year>2015</year>
+<volume>18</volume>
+<numero>^s2</numero>
+<issue>^s2</issue>
+<supplement>2</supplement>
+<page-range>3-16</page-range></nlm-citation>
+</ref>
+<ref id="B37">
+<label>37</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Menezes]]></surname>
+<given-names><![CDATA[AMB]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Wehrmeister]]></surname>
+<given-names><![CDATA[FC]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Horta]]></surname>
+<given-names><![CDATA[B]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Szwarcwald]]></surname>
+<given-names><![CDATA[CL]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Vieira]]></surname>
+<given-names><![CDATA[ML]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Malta]]></surname>
+<given-names><![CDATA[DC]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Preval�ncia de diagn�stico m�dico de asma em adultos brasileiros: Pesquisa Nacional de Sa�de, 2013.]]></article-title>
+<source><![CDATA[Rev Bras Epidemiol]]></source>
+<year>2015</year>
+<volume>18</volume>
+<page-range>204-13</page-range></nlm-citation>
+</ref>
+<ref id="B38">
+<label>38</label><nlm-citation citation-type="">
+<collab>Global Initiative for Chronic Obstructive Lung Disease</collab>
+<source><![CDATA[Diagnosis and initial treatment of asthma, copd and asthma-COPD overlap. A joint project of GINA and GOLD.]]></source>
+<year></year>
+</nlm-citation>
+</ref>
+<ref id="B39">
+<label>39</label><nlm-citation citation-type="journal">
+<collab>Secretaria de Aten��o � Sa�de, Minist�rio da Sa�de</collab>
+<article-title xml:lang=""><![CDATA[Portaria SAS/MS n� 1.317, de 25 de novembro de 2013. Aprova o Protocolo Cl�nico e Diretrizes Terap�uticas da Asma.]]></article-title>
+<source><![CDATA[Di�rio Oficial da Uni�o]]></source>
+<year>2013</year>
+<month>;</month>
+</nlm-citation>
+</ref>
+<ref id="B40">
+<label>40</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Travassos]]></surname>
+<given-names><![CDATA[C]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Viacava]]></surname>
+<given-names><![CDATA[F]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Laguardia]]></surname>
+<given-names><![CDATA[J]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Os Suplementos Sa�de na Pesquisa Nacional por Amostra de Domic�lios (PNAD) no Brasil]]></article-title>
+<source><![CDATA[Rev Bras Epidemiol]]></source>
+<year>2008</year>
+<volume>11</volume>
+<page-range>98-112</page-range></nlm-citation>
+</ref>
+<ref id="B41">
+<label>41</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Mengue]]></surname>
+<given-names><![CDATA[SS]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Bertoldi]]></surname>
+<given-names><![CDATA[AD]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Ramos]]></surname>
+<given-names><![CDATA[LR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Farias]]></surname>
+<given-names><![CDATA[MR]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Oliveira]]></surname>
+<given-names><![CDATA[MA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Tavares]]></surname>
+<given-names><![CDATA[NUL]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Access to and use of high blood pressure medications in Brazil]]></article-title>
+<source><![CDATA[Rev Sa�de P�blica]]></source>
+<year>2016</year>
+<volume>50</volume>
+<page-range>8s</page-range></nlm-citation>
+</ref>
+<ref id="B42">
+<label>42</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Al-Windi]]></surname>
+<given-names><![CDATA[A]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Elmfeldt]]></surname>
+<given-names><![CDATA[D]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Sv�rdsudd]]></surname>
+<given-names><![CDATA[K]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Determinants of drug utilisation in a Swedish municipality]]></article-title>
+<source><![CDATA[Pharmacoepidemiol Drug Saf]]></source>
+<year>2004</year>
+<volume>13</volume>
+<page-range>97-103</page-range></nlm-citation>
+</ref>
+<ref id="B43">
+<label>43</label><nlm-citation citation-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname><![CDATA[Barros]]></surname>
+<given-names><![CDATA[MBA]]></given-names>
+</name>
+<name>
+<surname><![CDATA[C�sar]]></surname>
+<given-names><![CDATA[CLG]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Carandina]]></surname>
+<given-names><![CDATA[L]]></given-names>
+</name>
+<name>
+<surname><![CDATA[Torre]]></surname>
+<given-names><![CDATA[GD]]></given-names>
+</name>
+</person-group>
+<article-title xml:lang=""><![CDATA[Desigualdades sociais na preval�ncia de doen�as cr�nicas no Brasil, PNAD-2003]]></article-title>
+<source><![CDATA[Ci�nc Sa�de Coletiva]]></source>
+<year>2006</year>
+<volume>11</volume>
+<page-range>911-26</page-range></nlm-citation>
+</ref>
+<ref id="B44">
+<label>44</label><nlm-citation citation-type="journal">
+<collab>Brasil</collab>
+<article-title xml:lang=""><![CDATA[Decreto n� 7.508, de 28 de junho de 2011. Regulamenta a Lei n� 8.080, de 19 de setembro de 1990, para dispor sobre a organiza��o do Sistema �nico de Sa�de - SUS, o planejamento da sa�de, a assist�ncia � sa�de e a articula��o interfederativa, e d� outras provid�ncias.]]></article-title>
+<source><![CDATA[Di�rio Oficial da Uni�o]]></source>
+<year>2011</year>
+<month>;</month>
+</nlm-citation>
+</ref>
+<ref id="B45">
+<label>45</label><nlm-citation citation-type="journal">
+<collab>Minist�rio da Sa�de</collab>
+<article-title xml:lang=""><![CDATA[Portaria n� 184, de 3 de fevereiro de 2011. Disp�e sobre o Programa Farm�cia Popular do Brasil.]]></article-title>
+<source><![CDATA[Di�rio Oficial da Uni�o]]></source>
+<year>2011</year>
+<month>;</month>
+</nlm-citation>
+</ref>
+</ref-list>
+</back>
+</article>
