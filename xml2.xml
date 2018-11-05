@@ -1,482 +1,527 @@
-<?xml version="1.0" encoding="ISO-8859-1"?><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<front>
-<journal-meta>
-<journal-id>0102-311X</journal-id>
-<journal-title><![CDATA[Cadernos de Sa�de P�blica]]></journal-title>
-<abbrev-journal-title><![CDATA[Cad. Sa�de P�blica]]></abbrev-journal-title>
-<issn>0102-311X</issn>
-<publisher>
-<publisher-name><![CDATA[Escola Nacional de Sa�de P�blica Sergio Arouca, Funda��o Oswaldo Cruz]]></publisher-name>
-</publisher>
-</journal-meta>
-<article-meta>
-<article-id>S0102-311X1985000100002</article-id>
-<article-id pub-id-type="doi">10.1590/S0102-311X1985000100002</article-id>
-<title-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral na cidade do Rio de Janeiro - Brasil]]></article-title>
-</title-group>
-<contrib-group>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Marzochi]]></surname>
-<given-names><![CDATA[Mauro Celio de A.]]></given-names>
-</name>
-<xref ref-type="aff" rid="A01"/>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Sabroza]]></surname>
-<given-names><![CDATA[Paulo Chagastelles]]></given-names>
-</name>
-<xref ref-type="aff" rid="A02"/>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Toledo]]></surname>
-<given-names><![CDATA[Luciano Medeiros de]]></given-names>
-</name>
-<xref ref-type="aff" rid="A03"/>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Marzochi]]></surname>
-<given-names><![CDATA[Keyla Bel�zia F.]]></given-names>
-</name>
-<xref ref-type="aff" rid="A04"/>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Tramontano]]></surname>
-<given-names><![CDATA[Neide C�ssia]]></given-names>
-</name>
-<xref ref-type="aff" rid="A05"/>
-</contrib>
-<contrib contrib-type="author">
-<name>
-<surname><![CDATA[Rangel Filho]]></surname>
-<given-names><![CDATA[Francisco B.]]></given-names>
-</name>
-<xref ref-type="aff" rid="A06"/>
-</contrib>
-</contrib-group>
-<aff id="A01">
-<institution><![CDATA[,Instituto Oswaldo Cruz - FIOCRUZ  ]]></institution>
-<addr-line><![CDATA[Rio de Janeiro ]]></addr-line>
-</aff>
-<aff id="A02">
-<institution><![CDATA[,FIOCRUZ Escola Nacional de Sa�de P�blica ]]></institution>
-<addr-line><![CDATA[Rio de Janeiro ]]></addr-line>
-</aff>
-<aff id="A03">
-<institution><![CDATA[,Secretaria Municipal de Sa�de do Rio de Janeiro - SMSRJ  ]]></institution>
-<addr-line><![CDATA[ ]]></addr-line>
-</aff>
-<aff id="A04">
-<institution><![CDATA[,Universidade Federal do Rio de Janeiro - UFRJ  ]]></institution>
-<addr-line><![CDATA[ ]]></addr-line>
-</aff>
-<aff id="A05">
-<institution><![CDATA[,Superintend�ncia das Campanhas do Minist�rio da Sa�de - SUCAM-RJ  ]]></institution>
-<addr-line><![CDATA[ ]]></addr-line>
-</aff>
-<aff id="A06">
-<institution><![CDATA[,Universidade Federal Rural do Rio de Janeiro - UFRRJ  ]]></institution>
-<addr-line><![CDATA[ ]]></addr-line>
-</aff>
-<pub-date pub-type="pub">
-<day>00</day>
-<month>03</month>
-<year>1985</year>
-</pub-date>
-<pub-date pub-type="epub">
-<day>00</day>
-<month>03</month>
-<year>1985</year>
-</pub-date>
-<volume>1</volume>
-<numero>1</numero>
-<fpage>5</fpage>
-<lpage>17</lpage>
-<copyright-statement/>
-<copyright-year/>
-<self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri><self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri><abstract abstract-type="short" xml:lang="pt"><p><![CDATA[A recente ocorr�ncia de casos humanos e caninos de leishmaniose visceral, aut�ctones de �reas peri-urbanas da cidade do Rio de Janeiro, a partir de 1977, motivou pesquisadores da Escola Nacional de Sa�de P�blica e do Instituto Oswaldo Cruz da Funda��o Oswaldo Cruz (FIOCRUZ), da Universidade Federal do Rio de Janeiro, da Universidade Federal Rural do Rio de Janeiro, da Secretaria Municipal da Sa�de do Rio de Janeiro e da Superintend�ncia das Campanhas do Minist�rio da Sa�de (SUCAM-RJ), a participarem de um programa de estudo dessa zooantroponose, visando a uma abordagem ecol�gica, epidemiol�gica, parasitol�gica, imunol�gica, cl�nico-terap�utica e de avalia��o das medidas de controle adotadas. Resultados gerais dessas pesquisas s�o apresentados na presente comunica��o.]]></p></abstract>
-<abstract abstract-type="short" xml:lang="en"><p><![CDATA[Since 1977 autoctonous cases of human and canine visceral Leishmaniasis have occurred in Rio de Janeiro. These cases have been studied by a group from the Escola Nacional de Sa�de P�blica, the Instituto Oswaldo Cruz Funda��o Oswaldo Cruz (FIOCRUZ), the Universidade Federal do Rio de Janeiro, the Universidade Federal Rural do Rio de Janeiro, the Secretaria Municipal de Sa�de do Rio de Janeiro and the Superintend�ncia das Campanhas do Minist�rio da Sa�de (SUCAM-RJ). The zooantroponosis has been subjected to ecological, epidemiological, parasitologica, immunological, clinical and therapeutic studies designed to investigate means of control for the disease. Here we present the general results of this work.]]></p></abstract>
-</article-meta>
-</front><body><![CDATA[ <p align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ARTIGO</b></font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Leishmaniose    visceral na cidade do Rio de Janeiro &#151; Brasil</b></font></p>     <p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Mauro Celio    de A. Marzochi<sup>I</sup>; Paulo Chagastelles Sabroza<sup>II</sup>; Luciano    Medeiros de Toledo<sup>III</sup>; Keyla Bel&iacute;zia F. Marzochi<sup>IV</sup>;    Neide C&aacute;ssia Tramontano<sup>V</sup>; Francisco B. Rangel Filho<sup>VI</sup></b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Instituto    Oswaldo Cruz &#151; FIOCRUZ, Rio de Janeiro    <br>   <sup>II</sup>Escola Nacional de Sa&uacute;de P&uacute;blica &#151; FIOCRUZ,    Rio de Janeiro    <br>   <sup>III</sup>Secretaria Municipal de Sa&uacute;de do Rio de Janeiro &#151;    SMSRJ    <br>   <sup>IV</sup>Universidade Federal do Rio de Janeiro &#151; UFRJ    ]]></body>
-<body><![CDATA[<br>   <sup>V</sup>Superintend&ecirc;ncia das Campanhas do Minist&eacute;rio da Sa&uacute;de    &#151; SUCAM-RJ    <br>   <sup>VI</sup>Universidade Federal Rural do Rio de Janeiro &#151; UFRRJ</font></p>     <p>&nbsp;</p>     <p>&nbsp;</p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A recente ocorr&ecirc;ncia    de casos humanos e caninos de leishmaniose visceral, aut&oacute;ctones de &aacute;reas    peri-urbanas da cidade do Rio de Janeiro, a partir de 1977, motivou pesquisadores    da Escola Nacional de Sa&uacute;de P&uacute;blica e do Instituto Oswaldo Cruz    da Funda&ccedil;&atilde;o Oswaldo Cruz (FIOCRUZ), da Universidade Federal do    Rio de Janeiro, da Universidade Federal Rural do Rio de Janeiro, da Secretaria    Municipal da Sa&uacute;de do Rio de Janeiro e da Superintend&ecirc;ncia das    Campanhas do Minist&eacute;rio da Sa&uacute;de (SUCAM-RJ), a participarem de    um programa de estudo dessa zooantroponose, visando a uma abordagem ecol&oacute;gica,    epidemiol&oacute;gica, parasitol&oacute;gica, imunol&oacute;gica, cl&iacute;nico-terap&ecirc;utica    e de avalia&ccedil;&atilde;o das medidas de controle adotadas. Resultados gerais    dessas pesquisas s&atilde;o apresentados na presente comunica&ccedil;&atilde;o.</font></p> <hr size="1" noshade>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Since 1977 autoctonous    cases of human and canine visceral Leishmaniasis have occurred in Rio de Janeiro.    These cases have been studied by a group from the Escola Nacional de Sa&uacute;de    P&uacute;blica, the Instituto Oswaldo Cruz Funda&ccedil;&atilde;o Oswaldo Cruz    (FIOCRUZ), the Universidade Federal do Rio de Janeiro, the Universidade Federal    Rural do Rio de Janeiro, the Secretaria Municipal de Sa&uacute;de do Rio de    Janeiro and the Superintend&ecirc;ncia das Campanhas do Minist&eacute;rio da    Sa&uacute;de (SUCAM-RJ). The zooantroponosis has been subjected to ecological,    epidemiological, parasitologica, immunological, clinical and therapeutic studies    designed to investigate means of control for the disease. Here we present the    general results of this work.</font></p> <hr size="1" noshade>     <p>&nbsp;</p>     <p>&nbsp;</p>     ]]></body>
-<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A leishmaniose    visceral (LV) ou Calazar Neotropical, no Brasil, &eacute; uma zooantroponose    peri-urbana e rural. No &acirc;mbito dom&eacute;stico, o c&atilde;o &eacute;    importante reservat&oacute;rio do agente, a <i>Leishmania donovani chagasi,</i>    e respons&aacute;vel pelo car&aacute;ter end&ecirc;mico-epid&ecirc;mico da doen&ccedil;a.    No ambiente silvestre, a raposa <i>Lycalopex vetulus<sup>3</sup></i> e outros    can&iacute;deos como o <i>Cerdocion thous<sup>6</sup></i> s&atilde;o incriminados    como hospedeiros naturais. A &uacute;nica esp&eacute;cie de fleb&oacute;tomo    incriminada na transmiss&atilde;o &eacute; a <i>Lutzomyia longipalpis,</i> cuja    distribui&ccedil;&atilde;o se superp&otilde;e &agrave;s &aacute;reas end&ecirc;micas<sup>3</sup>.    Clinicamente, a doen&ccedil;a humana pouco difere das outras modalidades cl&iacute;nico-epidemiol&oacute;gicas    existentes em outros continentes, incluindo febre, anemia, hepatoesplenomegalia    e emagrecimento de car&aacute;ter progressivo, por&eacute;m muito sens&iacute;vel    ao tratamento pelo antimonial. A taxa de mortalidade dos casos n&atilde;o tratados    varia de 75 a 95%, admitindo-se por&eacute;m a ocorr&ecirc;ncia de formas oligossintom&aacute;ticas    e assintom&aacute;ticas<sup>23</sup>. Segundo o Minist&eacute;rio da Sa&uacute;de    &#151; SUCAM, mais de mil casos humanos v&ecirc;m ocorrendo anualmente no Brasil.    Sua distribui&ccedil;&atilde;o geogr&aacute;fica vai desde o norte da Amaz&ocirc;nia    at&eacute; os estados da regi&atilde;o sudeste, passando pelos da regi&atilde;o    centro-oeste. S&atilde;o mais atingidos os estados da regi&atilde;o nordeste    (97% dos casos), predominando no Cear&aacute;.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recentemente, al&eacute;m    da recrudesc&ecirc;ncia observada nas &aacute;reas end&ecirc;micas do nordeste,    novos focos t&ecirc;m sido detectados no sul do pa&iacute;s (Paran&aacute;,    3 casos; S&atilde;o Paulo, 2 casos; Rio de Janeiro, 35 casos), sugerindo uma    expans&atilde;o da endemia<sup>11</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar humano    end&ecirc;mico &eacute; mais freq&uuml;ente em crian&ccedil;as, na maioria das    &aacute;reas, correspondendo a menores de 10 anos 80% dos casos, sendo que 60%    ocorrem at&eacute; os 4 anos; &eacute; tamb&eacute;m predominante no sexo masculino<sup>1</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar canino    enzo&oacute;tico &eacute; mais prevalente que o humano e precede a endemia<sup>1</sup>.    &Eacute; de evolu&ccedil;&atilde;o lenta, levando a acentuado emagrecimento,    perda de pelos e apatia, por&eacute;m freq&uuml;entemente assintom&aacute;tico,    embora com alto grau de parasitismo na pele s&atilde; e v&iacute;sceras<sup>3</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <i>L.</i> <i>longipalpis</i>    coloniza facilmente o peridomic&iacute;lio, adaptando-se a temperaturas elevadas    e baixo grau de umidade, sendo o per&iacute;odo de maior transmissibilidade    a esta&ccedil;&atilde;o chuvosa; os insetos invadem o domic&iacute;lio, picando    tanto o homem quanto o c&atilde;o<sup>3</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O aumento verificado    em sua distribui&ccedil;&atilde;o para o sul do pa&iacute;s, em &aacute;reas    onde sua presen&ccedil;a n&atilde;o havia sido notada, justificaria o aparecimento    de novos focos da doen&ccedil;a<sup>22</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar humano,    nunca antes referido na cidade do Rio de Janeiro, foi detectado ali, pela primeira    vez, em 1977<sup>21</sup>. At&eacute; outubro de 1983, 35 casos aut&oacute;ctones    foram diagnosticados em &aacute;reas peri-urbanas da cidade, situadas nas vertentes    continentais norte (bairros de Realengo e Bangu), noroeste (Senador Camar&aacute;),    oeste (Campo Grande) e sudeste (Jacarepagu&aacute;) do Maci&ccedil;o da Pedra    Branca (XVII, XVIII e XXIV RAs) &#151; <a href="/img/revistas/csp/v1n1/02m01.gif">Mapa</a> e    <a href="#figura1">Fig. 1</a>.</font></p>     <p><a name="figura1"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/csp/v1n1/02f01.gif"></p>     ]]></body>
-<body><![CDATA[<p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O maci&ccedil;o    da Pedra Branca, contraforte da Serra do Mar, situado no Centro do Munic&iacute;pio,    entre os paralelos 22&deg;50' e 23<sup>o</sup>05' e os meridianos 43<sup>o</sup>35'    e 43<sup>o</sup>20', &eacute; um conjunto montanhoso formado por rochas gran&iacute;ticas    e gna&iacute;ssicas, o mais alto do munic&iacute;pio, cujo ponto culminante    &eacute; o Pico da Pedra Branca (1.024m). O clima predominante nas vertentes    norte e noroeste, de maior insola&ccedil;&atilde;o, &eacute; do tipo Aw, com    temperatura m&eacute;dia anual de 27,7&deg;C; a precipita&ccedil;&atilde;o pluviom&eacute;trica    total anual &eacute; maior que 1.400mm, com menos de 60mm nos meses mais secos    (julho e agosto) e a umidade relativa pouco vari&aacute;vel, em tomo de 75&deg;C.    Nas vertentes atl&acirc;nticas, onde a umidade proveniente do mar encontra no    relevo um obst&aacute;culo, acarretando chuvas constantes no sop&eacute;, o    clima predominante nas baixadas &eacute; do tipo Am, mais &uacute;mido, e Af,    chuvoso, nas encostas<sup>19</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esse maci&ccedil;o,    que parece funcionar como uma barreira ecol&oacute;gica, tem suas vertentes    atl&acirc;nticas voltadas para o bairro de Jacarepagu&aacute; (XVI e XXIV Regi&otilde;es    Administrativas), onde a leishmaniose tegumentar americana (LTA) &eacute; end&ecirc;mica    e bastante antiga, apresentando surtos espor&aacute;dicos. Mais de 500 casos    humanos e mais de 50 casos caninos foram diagnosticados nos &uacute;ltimos 10    anos, e o agente etiol&oacute;gico identificado, bioquimicamente, como <i>Leishmania    braziliensis braziliensis<sup>10</sup>.</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As regi&otilde;es    mais atingidas, tanto pela L.V. como L.T.A., s&atilde;o &aacute;reas peri-urbanas,    com caracter&iacute;sticas rurais, geralmente de encostas de morros; a popula&ccedil;&atilde;o    predominante &eacute; de baixa renda, e as habita&ccedil;&otilde;es s&atilde;o    prec&aacute;rias e sem equipamentos sanit&aacute;rios ou ilumina&ccedil;&atilde;o    el&eacute;trica, por&eacute;m fixada &agrave; terra h&aacute; v&aacute;rias    d&eacute;cadas.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fauna flebotom&iacute;nica,    na vertente norte, &eacute; constitu&iacute;da por um predom&iacute;nio de <i>L.    longipalpis</i> (97,9%) nas cotas de altitude acima de 100m, enquanto, abaixo    de 100m, predomina <i>L. intermedia;</i> na vertente oeste, onde s&atilde;o    tamb&eacute;m referidos casos de LTA, a <i>L. intermedia</i> assume propor&ccedil;&atilde;o    de 82,4%, enquanto <i>L. longipalpis</i> &eacute; de 4,6%, e na vertente litor&acirc;nea    sul, onde apenas ocorre LTA, predomina <i>L. intermedia</i> (92,6%)<sup>6,20,22</sup><i>.</i></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar do pequeno    n&uacute;mero de casos de calazar humano no Rio de Janeiro, o coeficiente de    morbidade nas &aacute;reas de risco chegou a 28,1 por 10.000 hab. em 1981 (Campo    Grande), declinando com as medidas de controle adotadas pela SUCAM (busca ativa    e tratamento dos casos humanos, elimina&ccedil;&atilde;o dos c&atilde;es infectados    e dedetiza&ccedil;&atilde;o dos domic&iacute;lios) e apresentando uma morbidade    m&eacute;dia geral, no per&iacute;odo de 1977 a 1983, de 4,4 por 10.000 hab.    (<a href="/img/revistas/csp/v1n1/02t01.gif">Tabela I</a>). A distribui&ccedil;&atilde;o et&aacute;ria    nas localidades situadas nas vertentes norte (exclusiva de LV) &#151; 19 casos    &#151; correspondeu a 39,3% at&eacute; 9 anos de idade e 60,7% acima dessa faixa;    nas vertentes oeste, (onde tamb&eacute;m ocorre LTA) &#151; 15 casos &#151;    foi de 66,7% abaixo de 9 anos e 33,3% acima de 10 anos. No geral, houve predom&iacute;nio    do sexo masculino (60%). A ocorr&ecirc;ncia de apenas 25,7% dos casos abaixo    de 4 anos e 45,7% acima de 10 anos refor&ccedil;a a possibilidade de implanta&ccedil;&atilde;o    recente da endemia (<a href="#tabela2">Tabela II</a>).</font></p>     <p><a name="tabela2"></a></p>     <p>&nbsp;</p>     <p align="center"><img src="/img/revistas/csp/v1n1/02t02.gif"></p>     <p>&nbsp;</p>     ]]></body>
-<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De 22 doentes por    n&oacute;s examinados, em 21 (95,5%) evidenciamos <i>Leishmania</i> em material    de mielopun&ccedil;&atilde;o e em 13 (59%) isolamos o parasito em meio de cultivo<sup>12</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Todos apresentaram    sorologia positiva &agrave; imunofluoresc&ecirc;ncia indireta (IF) nas classes    IgG, cujos t&iacute;tulos variaram de 1: 90 a 1: 2800, com tend&ecirc;ncia a    manterem-se elevados por mais de 6 meses<sup>11</sup>. Na classe IgM foram observados    28,5% de resultados falsos positivos, relacionados ao fator reumat&oacute;ide,    embora 35,7% apresentassem anticorpos IgM espec&iacute;ficos<sup>2</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m da    evidencia&ccedil;&atilde;o de altos n&iacute;veis de imunocomplexos (IC) e ocorr&ecirc;ncia    de ativa&ccedil;&atilde;o policlonal, observou-se estreita associa&ccedil;&atilde;o    entre IC e auto-anticorpos antim&uacute;sculo liso<sup>4</sup>. No estudo da    patog&ecirc;nese da anemia, Pontes de Carvalho et alii<sup>17</sup> sugeriram    a participa&ccedil;&atilde;o de auto-anticorpos eritrocit&aacute;rios ou da    adsor&ccedil;&atilde;o passiva de imunocomplexos pelos eritr&oacute;citos.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A intradermorrea&ccedil;&atilde;o    de Montenegro (IDRM), realizada antes do tratamento, foi, surpreendentemente,    positiva em um paciente de 19 anos, procedente da encosta norte; ap&oacute;s    o tratamento, a IDRM foi positiva em 50% dos indiv&iacute;duos testados, com    tend&ecirc;ncia a permanecer negativa nos indiv&iacute;duos mais jovens<sup>12</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O tempo referido    da doen&ccedil;a variou de 10 dias a 5 meses; hepatoesplenomegalia e anemia,    presentes em todos os casos, foram de intensidade vari&aacute;vel, sendo que    febre, durante a interna&ccedil;&atilde;o, deixou de ocorrer em apenas um caso    que apresentou ictericia &agrave; admiss&atilde;o; as altera&ccedil;&otilde;es    laboratoriais cl&aacute;ssicas puderam ser observadas na maioria dos casos<sup>24</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cerca de 25% dos    pacientes apresentaram altera&ccedil;&otilde;es hemorr&aacute;gicas de pele,    antes ou durante o tratamento espec&iacute;fico; nestes, a plaquetopenia, observada    &agrave; interna&ccedil;&atilde;o ou concomitante ao agravamento do quadro hemorr&aacute;gico,    associou-se &agrave; acentuada eleva&ccedil;&atilde;o de imunocomplexos circulantes<sup>8</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quatro de seis    casos (com idades de 22 a 36 anos), reavaliados clinicamente at&eacute; um ano    ap&oacute;s o diagn&oacute;stico, apresentaram hipertens&atilde;o arterial persistente;    desses, tr&ecirc;s tiveram a forma sintom&aacute;tica e foram tratados ap&oacute;s    comprova&ccedil;&atilde;o diagn&oacute;stica, e um, oligossintom&aacute;tico,    apenas com IF e IDRM positivas, n&atilde;o foi tratado; por&eacute;m, tr&ecirc;s    deles eram irm&atilde;os (um dos quais oligossintom&aacute;tico), com antecedentes    familiares de hipertens&atilde;o<sup>9</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao tratamento espec&iacute;fico    feito pela administra&ccedil;&atilde;o endovenosa de Glucantime (Rhodia-CEME),    na dose de 50-100 mg/kg/dia, em dois per&iacute;odos de 10 dias, com 10 dias    de intervalo, n&atilde;o se observou resist&ecirc;ncia &agrave; droga. Os 3    &oacute;bitos ocorridos foram associados ao in&iacute;cio tardio da terap&ecirc;utica    em pacientes com estado geral muito comprometido e agravado por complica&ccedil;&otilde;es    (s&eacute;psis e hemorragia digestiva).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um inqu&eacute;rito    sorol&oacute;gico canino pela rea&ccedil;&atilde;o de imunofluoresc&ecirc;ncia    indireta, realizado pela SUCAM com colabora&ccedil;&atilde;o da FIOCRUZ, evidenciou    em c&atilde;es de &aacute;reas exclusivamente com LV (Realengo, Bangu e Senador    Camar&aacute;) uma preval&ecirc;ncia de 4,3% de positividade; em c&atilde;es    da &aacute;rea mista de LV e LTA (Campo Grande), uma preval&ecirc;ncia de 12,7%    e em c&atilde;es de Pau da Fome (Jacarepagu&aacute;), na vertente litor&acirc;nea    sudeste do Maci&ccedil;o da Pedra Branca, onde t&ecirc;m ocorrido apenas casos    humanos e caninos de leishmaniose tegumentar, 8,6%.<a name="toponota1"></a><a href="#nota1"><sup>1</sup></a></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em 40 c&atilde;es    recolhidos das &aacute;reas end&ecirc;micas, com diagn&oacute;stico parasitol&oacute;gico    ou sorol&oacute;gico positivos, observamos que, em 19 c&atilde;es das &aacute;reas    exclusivas de LV, apenas 36,8% apresentavam sinais cl&iacute;nicos sugestivos    da infec&ccedil;&atilde;o (emagrecimento &#151; 100%; infartamento ganglionar    e depila&ccedil;&atilde;o &#151; 85,7%; apatia &#151; 71,4%; ulcera&ccedil;&otilde;es,    descama&ccedil;&otilde;es furfur&aacute;ceas e unhas alongadas &#151; 42,9%);    em 21 c&atilde;es provenientes da &aacute;rea mista de LV e LTA, 76,2% apresentavam    sinais sugestivos, predominando, por&eacute;m, as ulcera&ccedil;&otilde;es de    pele ou mucosas; outros sinais menos freq&uuml;entes, como evacua&ccedil;&otilde;es    sanguinolentas, queratoconjuntivite e paresia, foram observados em ambas as    &aacute;reas; o exame parasitol&oacute;gico, ap&oacute;s necr&oacute;psia dos    40 c&atilde;es, evidenciou <i>Leishmania</i> em 39, sendo 42,5% em v&iacute;sceras    e pele normal, 35% somente em ulcera&ccedil;&otilde;es de pele ou mucosas e    20% somente em v&iacute;sceras; todas as amostras de <i>Leishmania</i> isoladas    da &aacute;rea de Realengo (LV) foram caracterizadas bioquimicamente (isoenzimas,    anticorpos monoclonais e kDNA) como <i>L. donovani chagasi;</i> nas amostras    isoladas da &aacute;rea de Campo Grande (LV + LTA) e caracterizadas pelos mesmos    m&eacute;todos, observou-se tanto <i>L.d. chagasi como L.b. braziliensis;</i>    o tratamento com antimonial (Glucantime) de 3 c&atilde;es positivos aos exames    parasitol&oacute;gicos e sorol&oacute;gicos, por&eacute;m apresentando regular    estado geral, n&atilde;o logrou &ecirc;xito, observando-se, por&eacute;m, agravamento    das manifesta&ccedil;&otilde;es cl&iacute;nicas e morte precoce de um animal.<a name="toponota2"></a><a href="#nota2"><sup>2</sup></a></font></p>     ]]></body>
-<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um inqu&eacute;rito    epidemiol&oacute;gico atrav&eacute;s de exame cl&iacute;nico, IF e IDRM, realizado    em 121 moradores da encosta norte (Serra do Barata &#151; Realengo), excluindo-se    os 11 indiv&iacute;duos que tiveram LV na mesma localidade, evidenciou um caso    sintom&aacute;tico, com confirma&ccedil;&atilde;o parasitol&oacute;gica posterior    e um caso assintom&aacute;tico, com IF e IDRM positivas e sem confirma&ccedil;&atilde;o    parasitol&oacute;gica, al&eacute;m de tr&ecirc;s indiv&iacute;duos &#151; 2,5%    (dois adultos e uma crian&ccedil;a) com apenas IDRM positiva<sup>13</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na encosta oeste    (Rio da Prata &#151; Campo Grande), Toledo et alii<sup>25</sup> aplicaram o    mesmo tipo de inqu&eacute;rito a duas sub&aacute;reas distintas, numa (170 indiv&iacute;duos)    predominando LV e noutra (213 indiv&iacute;duos) predominando LTA; na sub&aacute;rea    de LV, a preval&ecirc;ncia da IDRM (12%) foi constante em todas as faixas et&aacute;rias    e variou de 9,4% a 18,9%, enquanto na sub&aacute;rea de LTA a preval&ecirc;ncia    da IDRM (29%) mostrou comportamento crescente em dire&ccedil;&atilde;o aos grupos    et&aacute;rios mais altos, variando de 5,4% a 50%.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na sub&aacute;rea    de LV, 75 moradores foram divididos em quatro grupos, de acordo com a ocorr&ecirc;ncia    ou n&atilde;o de casos humanos e caninos em suas resid&ecirc;ncias<sup>25</sup>.    No Grupo I, onde ocorreram casos humanos, a IF foi de zero por cento e a IDRM    de 10%, no Grupo II, onde ocorreram apenas casos caninos, a IF foi de 10,3%    e a IDRM de 13,8%; no Grupo III, onde ocorreram casos humanos e caninos, a IF    foi de 15,4% e a IDRM de 23,1% e, no Grupo IV, onde n&atilde;o ocorreram casos    humanos ou caninos, a IF foi de zero por cento e a IDRM de 3,9%. A presen&ccedil;a    de cinco indiv&iacute;duos (6,6% da popula&ccedil;&atilde;o testada) dos grupos    II e III clinicamente normais, mas positivos &agrave; IF e &agrave; IDRM, sugeriu    a ocorr&ecirc;ncia de formas subcl&iacute;nicas ou oligossintom&aacute;ticas;    o cultivo de mononucleares, separados do sangue perif&eacute;rico em gradiente    de Ficoll-Hypaque, de tr&ecirc;s desses indiv&iacute;duos, mostrou a presen&ccedil;a    de formas promastigotas de <i>Leishmania;</i> no entanto, n&atilde;o se encontrou    <i>Leishmania</i> em material de medula &oacute;ssea, tanto no esfrega&ccedil;o    corado como no cultivo em meio NNN<sup>25</sup></font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A proximidade da    popula&ccedil;&atilde;o da encosta oeste com &aacute;rea onde ocorre a LTA humana    e canina, ao contr&aacute;rio do observado na encosta norte, poderia justificar    a maior preval&ecirc;ncia da IDRM positiva e talvez explicar a menor ocorr&ecirc;ncia    de LV em adultos, sugerindo uma prote&ccedil;&atilde;o imunol&oacute;gica cruzada    dos grupos et&aacute;rios mais velhos pela <i>L. b. braziliensis,</i> uma vez    que a LTA parece ser de implanta&ccedil;&atilde;o mais antiga e a LV mais recente.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado,    as formas frustras ou assintom&aacute;ticas n&atilde;o parecem ser raras e,    provavelmente, desempenhem papel de relevo na epidemiologia do calazar.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As amostras de    <i>Leishmania</i> isoladas tanto dos casos humanos, como de casos caninos de    LV, caracterizadas bioquimicamente como L. <i>donovani chagasi,</i> apresentaram    elevado grau de homogeneidade entre elas; foram, no entanto, distintas das amostras    de <i>L. braziliensis braziliensis</i> dos casos de LTA de origem humana e canina,    isoladas no Rio de Janeiro<sup>7,14,16</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Curiosamente, em    Campo Grande, na encosta oeste, observou-se um caso humano de infec&ccedil;&atilde;o    concomitante, visceral e tegumentar, correspondente a uma crian&ccedil;a de    5 anos que previamente apresentara quadro cl&iacute;nico sugestivo de calazar,    veio posteriormente, antes de receber tratamento, a desenvolver les&atilde;o    cut&acirc;nea ulcerada (que coincidiu com o aparecimento de les&atilde;o do    mesmo tipo em uma irm&atilde;);abi&oacute;psia da les&atilde;o cut&acirc;nea    e a pun&ccedil;&atilde;o de medula &oacute;ssea evidenciaram parasitos caracterizados    como <i>L. b. braziliensis</i> e <i>L. d. chagasi,</i> respectivamente<sup>15</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As tentativas de    encontrar animais silvestres, poss&iacute;veis reservat&oacute;rios de <i>Leishmania,</i>    t&ecirc;m sido infrut&iacute;feras; at&eacute; o momento, 75 roedores de v&aacute;rias    esp&eacute;cies e 13 marsupiais foram examinados, sem resultado positivo (dados    n&atilde;o publicados).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A distribui&ccedil;&atilde;o    temporal dos casos humanos, segundo a data de diagn&oacute;stico, mostrou uma    freq&uuml;&ecirc;ncia maior entre os meses de maio a agosto. Admitindo-se que    o per&iacute;odo de incuba&ccedil;&atilde;o, somado ao per&iacute;odo de doen&ccedil;a    anterior ao diagn&oacute;stico, seja em torno de 6 meses, &eacute; prov&aacute;vel    que a aquisi&ccedil;&atilde;o da infec&ccedil;&atilde;o ocorra predominantemente    entre os meses de novembro a mar&ccedil;o, correspondentes aos meses mais quentes    do ano, quando a pluviosidade &eacute; tamb&eacute;m maior nas &aacute;reas    de risco (dados n&atilde;o publicados).</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nas &aacute;reas    onde a LV humana ou canina foram detectadas, o Minist&eacute;rio da Sa&uacute;de    (SUCAM &#151; Regional RJ) adotou as cl&aacute;ssicas medidas de controle: busca    ativa e tratamento dos casos humanos, inqu&eacute;rito sorol&oacute;gico canino    com elimina&ccedil;&atilde;o dos c&atilde;es infectados (assintom&aacute;ticos    ou doentes) e dedetiza&ccedil;&atilde;o de todos os domic&iacute;lios e anexos,    repetindo-as semestralmente. Isso reverteu a expectativa de aumento dos casos    (<a href="/img/revistas/csp/v1n1/02t01.gif">Tabela I</a>).</font></p>     ]]></body>
-<body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A despeito das    in&uacute;meras informa&ccedil;&otilde;es acumuladas, carece ainda de estudos    a determina&ccedil;&atilde;o de fatores ambientais, humanos, sociais, econ&ocirc;micos,    etc, que possam ter influenciado a instala&ccedil;&atilde;o e a propaga&ccedil;&atilde;o    da leishmaniose visceral nas &aacute;reas peri-urbanas da cidade do Rio de Janeiro.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sabemos que os    desmatamentos no Munic&iacute;pio remontam ao s&eacute;culo XVI, quando da doa&ccedil;&atilde;o    das Sesmarias e in&iacute;cio de planta&ccedil;&otilde;es de cana de a&ccedil;&uacute;car.    O ciclo cafeeiro, a partir do in&iacute;cio do s&eacute;culo XIX, induziu &agrave;    ocupa&ccedil;&atilde;o das encostas do Maci&ccedil;o da Pedra Branca at&eacute;    a cota de 200m, sendo substitu&iacute;do, no in&iacute;cio do s&eacute;culo    XX, pela fruticultura e implementado, a partir de 1930, com o cultivo dos laranjais,    quando os cafezais foram transferidos para o vale do Para&iacute;ba. Com a queda    do com&eacute;rcio de exporta&ccedil;&atilde;o das frutas c&iacute;tricas, nos    anos que precederam a 2<u><sup>a</sup></u> Guerra Mundial, grandes &aacute;reas    passaram a ser utilizadas para o plantio de bananais que, galgando progressivamente    as encostas, atingiram, em algumas &aacute;reas, a altitudes superiores a 500m    e assim se mant&ecirc;m at&eacute; os dias atuais<sup>19</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No entanto, a Secretaria    Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral, procurando determinar,    com utiliza&ccedil;&atilde;o dos dados de sensoriamente remoto por sat&eacute;lite    (produtos MSS do Landsat), o ritmo atual de desmatamento, demonstrou que a taxa    de crescimento das &aacute;reas desmatadas acima da cota 100, no munic&iacute;pio,    foi de 10,38% no per&iacute;odo de 1972 a 1978; fato esse interpretado como    conseq&uuml;&ecirc;ncia do uso indevido do solo, nos maci&ccedil;os da Pedra    Branca, Tijuca e Gericin&oacute;, apesar da legisla&ccedil;&atilde;o federal    e municipal existente fixar normas de conserva&ccedil;&atilde;o e manuten&ccedil;&atilde;o    de cobertura vegetal nas &aacute;reas de encostas acima da cota 100, ainda remanescentes    da Mata Atl&acirc;ntica<sup>19</sup>.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesse per&iacute;odo,    coincidentemente, constatou-se desmatamento longitudinal, cortando de leste    a oeste a reserva florestal do maci&ccedil;o da Pedra Branca &#151; da Esta&ccedil;&atilde;o    de Furnas, instalada em Pau da Fome, Jacarepagu&aacute;, na vertente leste,    at&eacute; Rio da Prata, Campo Grande, na vertente oeste &#151; para a instala&ccedil;&atilde;o    de linhas de transmiss&atilde;o de energia el&eacute;trica. Segundo informa&ccedil;&otilde;es,    v&aacute;rias companhias empreiteras nacionais participaram dessa obra, atrav&eacute;s    do recrutamento de m&atilde;o-de-obra de v&aacute;rias proced&ecirc;ncias, inclusive    do nordeste do Brasil, e mantiveram os empregados residindo no local de trabalho    em unidades de acampamentos m&oacute;veis, ao longo de todo o trajeto.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A introdu&ccedil;&atilde;o    nessa &aacute;rea do homem ou mesmo do c&atilde;o, provenientes de outras &aacute;reas    end&ecirc;micas e albergando o parasito, poderia justificar a implanta&ccedil;&atilde;o    do mais recente e mais meridional foco de leishmaniose visceral no Pa&iacute;s    associado &agrave; presen&ccedil;a da <i>Lutzomyia longipalpis</i> e &agrave;    infec&ccedil;&atilde;o canina.</font></p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>REFER&Ecirc;NCIAS    BIBLIOGR&Aacute;FICAS</b></font></p>     <!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1. ALENCAR, J.E.    Leishmaniose visceral no Brasil. <i>R.</i> <i>Med. Univ. Fed. Cear&aacute;,    17-18</i> :129-48, 1978.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000070&pid=S0102-311X198500010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2. COUTINHO, S.G.    et alii. Anticorpos fluorescentes da classe IgM de imunoglobulinas (IF &#151;    IgM) e fator reumat&oacute;ide na leishmaniose visceral. In: CONGRESSO DA SOCIEDADE    BRASILEIRA DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982<i>. Anais.</i>    Ribeir&atilde;o Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000071&pid=S0102-311X198500010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3. DEANE, L.M.    <i>Leishmaniose visceral no Brasil;</i> estudo sobre reservat&oacute;rios e    transmissores realizados no estado do Cear&aacute;. Rio de Janeiro, Servi&ccedil;o    Nacional de Educa&ccedil;&atilde;o Sanit&aacute;ria, 1956.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000072&pid=S0102-311X198500010000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4. GALV&Atilde;O-CASTRO,    B. et alii. Polyclonal B cell activation circulating immune complexes and autoimmunity    in human american visceral leishmaniasis. <i>Clin. Exp. Immunol., 56 :</i>58-66,    1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000073&pid=S0102-311X198500010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">5. LAINSON, R.    et alii. Leishmaniasis in Brazil IV. The fox, <i>Cerdocyon thous</i> (L). As    a reservoir of <i>Leishmania donovani</i> In Par&aacute;, State Brazil. <i>Tram.    R. Soc. Trop. Med. Hyg., 63:</i>741-5, 1969.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000074&pid=S0102-311X198500010000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">6. LIMA, L.C.R.    et alii. Flebotom&iacute;neos em &aacute;rea de ocorr&ecirc;ncia de leishmaniose    tegumentar americana no bairro de Campo Grande, Rio de Janeiro, Brasil<i>. R.    Bras. Malariol. D. Trop., 33</i> :64-74, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000075&pid=S0102-311X198500010000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">7. LOPES, V.G.    et alii. Schizodeme and zymodeme characterization of leishmania in the investigation    of foci of visceral and cutaneous leishmaniasis. <i>J. Parasitol., 70,</i> 1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000076&pid=S0102-311X198500010000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">8. MARZOCHI, K.B.F.    et alii. Hemorragia de pele e calazar. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982. <i>Anais.</i> Ribeir&atilde;o    Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000077&pid=S0102-311X198500010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">9. MARZOCHI, K.B.F.    et alii. Hipertens&atilde;o arterial e calazar. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982. <i>Anais.</i> Ribeir&atilde;o    Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000078&pid=S0102-311X198500010000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">10. MARZOCHI, M.C.A.    et alii. Evaluation of diagnostic criteria in human and canine mucocutaneous    leishmaniasis in a Rio de Janeiro district where <i>Leishmania braziliensis    braziliensis</i> occurs. In: REUNI&Atilde;O DE PESQUISA B&Aacute;SICA EM DOEN&Ccedil;A    DE CHAGAS, 19. Caxambu, 1982. <i>Anais.</i> Caxambu, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000079&pid=S0102-311X198500010000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">11. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral-calazar<i>. J. bras. Med., 41</i> :69-84,1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000080&pid=S0102-311X198500010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">12. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral no Rio de Janeiro; aspectos epidemiol&oacute;gicos    humanos. In: CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 19. Rio    de Janeiro, 1983. <i>Anais.</i> Rio de Janeiro, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000081&pid=S0102-311X198500010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">13. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral no Rio de Janeiro. III &#151; Inqu&eacute;rito    epidemiol&oacute;gico pela imunofluoresc&ecirc;ncia e intradermorrea&ccedil;&atilde;o    em &aacute;rea de risco de transmiss&atilde;o. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 17. Caldas Novas, 1981. <i>Anais.</i> Caldas Novas, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000082&pid=S0102-311X198500010000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">14. MOMEN, H. Identification    of new world leishmania isolates by agarose gel eletrophoresis and polyacrylamide    gel soelectrofocusing<i>. J. Cell. Biochem., 70</i> (Supl. 7A):29, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000083&pid=S0102-311X198500010000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">15. OLIVEIRA NETO,    M. et alii. Concurrent human infection with <i>Leishmania donovani</i> and <i>L.    braziliensis</i> <i>braziliensis.</i> In: REUNI&Atilde;O ANUAL DE PESQUISA B&Aacute;SICA    EM DOEN&Ccedil;A DE CHAGAS, 19. Caxambu, 1982<i>.Anais.</i> Caxambu, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000084&pid=S0102-311X198500010000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">16. PACHECO, R.S.    et alii. A comparative biochemical analysis of isolates of visceral leishmaniasis    from the states of Bahia and Rio de Janeiro. In: JAPAN-BRASIL SYMPOSIUM ON SCIENCE    AND TECHNOLOGY, 4. <i>Proceedings.</i> S&atilde;o Paulo, Academia de Ci&ecirc;ncias,    CNPq, 1984. v. 2. p. 58-70.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000085&pid=S0102-311X198500010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">17. PONTES DE CARVALHO,    L. et alii. The pathogenesis on anaemia in american visceral leishmaniasis (AVL).    In: INTERNATIONAL CONGRESS OF IMMUNOLOGY, 5. Kyoto, 1983. <i>Abstracts.</i>    Kyoto, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000086&pid=S0102-311X198500010000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">18. RIO DE JANEIRO    (cidade). Secretaria Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral.    <i>Diagn&oacute;stico do desmatamento nos maci&ccedil;os da Tijuca, Pedra Branca    e Gericin&oacute;.</i> Rio de Janeiro, 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000087&pid=S0102-311X198500010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">19. RIO DE JANEIRO    (cidade). Secretaria Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral.    <i>Informa&ccedil;&otilde;es b&aacute;sicas da cidade do Rio de Janeiro.</i>    Rio de Janeiro, 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000088&pid=S0102-311X198500010000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">20. SABROZA, P.    C. <i>O domic&iacute;lio como fator de risco na</i> <i>leishmaniose tegumentar    americana;</i> estudo epidemiol&oacute;gico em Jacarepagu&aacute;, munic&iacute;pio    do Rio de Janeiro. Rio de Janeiro, 1981. (Disserta&ccedil;&atilde;o de Mestrado    &#151; Escola Nacional de Sa&uacute;de P&uacute;blica, FIOCRUZ)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0102-311X198500010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">21. SABROZA, P.C.    et alii. Flebotom&iacute;neos na cidade do Rio de Janeiro. In: CONGRESSO DA    SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 14 &amp; CONGRESSO DA SOCIEDADE BRASILEIRA    DE PARASITOLOGIA, 3. Jo&atilde;o Pessoa, 1978. <i>Anais.</i> Jo&atilde;o Pessoa,    1978.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000090&pid=S0102-311X198500010000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">22. SOUZA, M.A.    et alii. Leishmania visceral no Rio de Janeiro, 1 &#151; Flebotom&iacute;neos    da &aacute;rea de proced&ecirc;ncia de caso humano aut&oacute;ctone. <i>Mem.    Inst. Oswaldo Cruz, 76</i> (2) :161-8, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0102-311X198500010000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">23. TEIXEIRA, R.    <i>Experi&ecirc;ncias vividas com a leishmaniose</i> <i>visceral, 1954-1980;</i>    aspectos epidemiol&oacute;gicos, sorol&oacute;gicos e evolutivos. Salvador,    1980. (Tese &#151; Universidade Federal da Bahia)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000092&pid=S0102-311X198500010000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">24. TOLEDO, L.M.    et alii. Leishmaniose visceral na cidade do Rio de Janeiro; casos cl&iacute;nicos    do Servi&ccedil;o de Doen&ccedil;as Infecciosas e Parasit&aacute;rias (DIP)    do Hospital Universit&aacute;rio, UFRJ. In: CONGRESSO BRASILEIRO DE MEDICINA    TROPICAL, 27. Caldas Novas, 1981. <i>Anais.</i> Caldas Novas, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0102-311X198500010000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">25. TOLEDO, L.M.    et alii. Ocorr&ecirc;ncia de formas assintom&aacute;ticas de leishmaniose visceral    humana na localidade de Rio da Prata, Campo Grande, Rio de Janeiro. In: CONGRESSO    DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 19. Rio de Janeiro, 1983. <i>Anais.</i>    Rio de Janeiro, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000094&pid=S0102-311X198500010000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p>     <p>&nbsp;</p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="nota1"></a><a href="#toponota1">1</a>    COUTINHO, S. G. et alii. A survey of visceral and cutaneous leishmaniasis among    1.342 dogs from areas in Rio de Janeiro (Brazil) where the human disease occurs.    Trabalho aceito para publica&ccedil;&atilde;o nas Mem. Inst. Oswaldo Cruz.</font></p>     <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="nota2"></a><a href="#toponota2">2</a>    MARZOCHI, M.C.A. et alii. Leishmaniose visceral canina no Rio de Janeiro, Brasil.    Aspectos cl&iacute;nico-parasitol&oacute;gicos e epidemiol&oacute;gicos observados    (1977-1983). Trabalho em preparo.</font></p>      ]]></body><back>
-<ref-list>
-<ref id="B1">
-<label>1</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[ALENCAR]]></surname>
-<given-names><![CDATA[J.E.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Brasil]]></article-title>
-<source><![CDATA[R. Med. Univ. Fed. Cear�]]></source>
-<year>1978</year>
-<volume>17</volume><volume>18</volume>
-<page-range>129-48</page-range></nlm-citation>
-</ref>
-<ref id="B2">
-<label>2</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[COUTINHO]]></surname>
-<given-names><![CDATA[S.G.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Anticorpos fluorescentes da classe IgM de imunoglobulinas (IF - IgM) e fator reumat�ide na leishmaniose visceral]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1982</year>
-<conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1982</conf-date>
-<conf-loc>Ribeir�o Preto </conf-loc>
-<publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B3">
-<label>3</label><nlm-citation citation-type="book">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[DEANE]]></surname>
-<given-names><![CDATA[L.M.]]></given-names>
-</name>
-</person-group>
-<source><![CDATA[Leishmaniose visceral no Brasil: estudo sobre reservat�rios e transmissores realizados no estado do Cear�]]></source>
-<year>1956</year>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-<publisher-name><![CDATA[Servi�o Nacional de Educa��o Sanit�ria]]></publisher-name>
-</nlm-citation>
-</ref>
-<ref id="B4">
-<label>4</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[GALV�O-CASTRO]]></surname>
-<given-names><![CDATA[B.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[Polyclonal B cell activation circulating immune complexes and autoimmunity in human american visceral leishmaniasis]]></article-title>
-<source><![CDATA[Clin. Exp. Immunol.]]></source>
-<year>1984</year>
-<volume>56</volume>
-<page-range>58-66</page-range></nlm-citation>
-</ref>
-<ref id="B5">
-<label>5</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[LAINSON]]></surname>
-<given-names><![CDATA[R.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[Leishmaniasis in Brazil: IV. The fox, Cerdocyon thous (L). As a reservoir of Leishmania donovani In Par�, State Brazil]]></article-title>
-<source><![CDATA[Tram. R. Soc. Trop. Med. Hyg.]]></source>
-<year>1969</year>
-<volume>63</volume>
-<page-range>741-5</page-range></nlm-citation>
-</ref>
-<ref id="B6">
-<label>6</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[LIMA]]></surname>
-<given-names><![CDATA[L.C.R.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Flebotom�neos em �rea de ocorr�ncia de leishmaniose tegumentar americana no bairro de Campo Grande, Rio de Janeiro, Brasil]]></article-title>
-<source><![CDATA[R. Bras. Malariol. D. Trop.]]></source>
-<year>1981</year>
-<volume>33</volume>
-<page-range>64-74</page-range></nlm-citation>
-</ref>
-<ref id="B7">
-<label>7</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[LOPES]]></surname>
-<given-names><![CDATA[V.G.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[Schizodeme and zymodeme characterization of leishmania in the investigation of foci of visceral and cutaneous leishmaniasis]]></article-title>
-<source><![CDATA[J. Parasitol.]]></source>
-<year>1984</year>
-<volume>70</volume>
-</nlm-citation>
-</ref>
-<ref id="B8">
-<label>8</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[K.B.F.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Hemorragia de pele e calazar]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1982</year>
-<conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1982</conf-date>
-<conf-loc>Ribeir�o Preto </conf-loc>
-<publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B9">
-<label>9</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[K.B.F.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Hipertens�o arterial e calazar]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1982</year>
-<conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1982</conf-date>
-<conf-loc>Ribeir�o Preto </conf-loc>
-<publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B10">
-<label>10</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[M.C.A.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[Evaluation of diagnostic criteria in human and canine mucocutaneous leishmaniasis in a Rio de Janeiro district where Leishmania braziliensis braziliensis occurs]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1982</year>
-<conf-name><![CDATA[19 REUNI�O DE PESQUISA B�SICA EM DOEN�A DE CHAGAS]]></conf-name>
-<conf-date>1982</conf-date>
-<conf-loc>Caxambu </conf-loc>
-<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B11">
-<label>11</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[M.C.A.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral-calazar]]></article-title>
-<source><![CDATA[J. bras. Med.]]></source>
-<year>1981</year>
-<volume>41</volume>
-<page-range>69-84</page-range></nlm-citation>
-</ref>
-<ref id="B12">
-<label>12</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[M.C.A.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Rio de Janeiro: aspectos epidemiol�gicos humanos]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1983</year>
-<conf-name><![CDATA[19 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1983</conf-date>
-<conf-loc>Rio de Janeiro </conf-loc>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B13">
-<label>13</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[MARZOCHI]]></surname>
-<given-names><![CDATA[M.C.A.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Rio de Janeiro: III - Inqu�rito epidemiol�gico pela imunofluoresc�ncia e intradermorrea��o em �rea de risco de transmiss�o]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1981</year>
-<conf-name><![CDATA[17 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1981</conf-date>
-<conf-loc>Caldas Novas </conf-loc>
-<publisher-loc><![CDATA[Caldas Novas ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B14">
-<label>14</label><nlm-citation citation-type="">
-<source><![CDATA[]]></source>
-<year></year>
-</nlm-citation>
-</ref>
-<ref id="B15">
-<label>15</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[OLIVEIRA NETO]]></surname>
-<given-names><![CDATA[M.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[Concurrent human infection with Leishmania donovani and L. braziliensis braziliensis]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1982</year>
-<conf-name><![CDATA[19 REUNI�O ANUAL DE PESQUISA B�SICA EM DOEN�A DE CHAGAS]]></conf-name>
-<conf-date>1982</conf-date>
-<conf-loc>Caxambu </conf-loc>
-<publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B16">
-<label>16</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[PACHECO]]></surname>
-<given-names><![CDATA[R.S.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[A comparative biochemical analysis of isolates of visceral leishmaniasis from the states of Bahia and Rio de Janeiro]]></article-title>
-<source><![CDATA[Proceedings]]></source>
-<year>1984</year>
-<volume>2</volume>
-<conf-name><![CDATA[4 JAPAN-BRASIL SYMPOSIUM ON SCIENCE AND TECHNOLOGY]]></conf-name>
-<conf-loc> </conf-loc>
-<page-range>58-70</page-range><publisher-loc><![CDATA[S�o Paulo ]]></publisher-loc>
-<publisher-name><![CDATA[Academia de Ci�nciasCNPq]]></publisher-name>
-</nlm-citation>
-</ref>
-<ref id="B17">
-<label>17</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[PONTES DE CARVALHO]]></surname>
-<given-names><![CDATA[L.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="en"><![CDATA[The pathogenesis on anaemia in american visceral leishmaniasis (AVL)]]></article-title>
-<source><![CDATA[Abstracts]]></source>
-<year>1983</year>
-<conf-name><![CDATA[5 INTERNATIONAL CONGRESS OF IMMUNOLOGY]]></conf-name>
-<conf-date>1983</conf-date>
-<conf-loc>Kyoto </conf-loc>
-<publisher-loc><![CDATA[Kyoto ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B18">
-<label>18</label><nlm-citation citation-type="">
-<collab>RIO DE JANEIRO^dSecretaria Municipal de Planejamento e Coordena��o Geral</collab>
-<source><![CDATA[Diagn�stico do desmatamento nos maci�os da Tijuca, Pedra Branca e Gericin�]]></source>
-<year>1979</year>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B19">
-<label>19</label><nlm-citation citation-type="">
-<collab>RIO DE JANEIRO^dSecretaria Municipal de Planejamento e Coordena��o Geral</collab>
-<source><![CDATA[Informa��es b�sicas da cidade do Rio de Janeiro]]></source>
-<year>1979</year>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B20">
-<label>20</label><nlm-citation citation-type="">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[SABROZA]]></surname>
-<given-names><![CDATA[P. C.]]></given-names>
-</name>
-</person-group>
-<source><![CDATA[O domic�lio como fator de risco na leishmaniose tegumentar americana: estudo epidemiol�gico em Jacarepagu�, munic�pio do Rio de Janeiro]]></source>
-<year>1981</year>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B21">
-<label>21</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[SABROZA]]></surname>
-<given-names><![CDATA[P.C.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Flebotom�neos na cidade do Rio de Janeiro]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1978</year>
-<conf-name><![CDATA[143 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICALCONGRESSO DA SOCIEDADE BRASILEIRA DE PARASITOLOGIA]]></conf-name>
-<conf-date>1978</conf-date>
-<conf-loc>Jo�o Pessoa </conf-loc>
-<publisher-loc><![CDATA[Jo�o Pessoa ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B22">
-<label>22</label><nlm-citation citation-type="journal">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[SOUZA]]></surname>
-<given-names><![CDATA[M.A.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmania visceral no Rio de Janeiro: 1 - Flebotom�neos da �rea de proced�ncia de caso humano aut�ctone]]></article-title>
-<source><![CDATA[Mem. Inst. Oswaldo Cruz]]></source>
-<year>1981</year>
-<volume>76</volume>
-<numero>2</numero>
-<issue>2</issue>
-<page-range>161-8</page-range></nlm-citation>
-</ref>
-<ref id="B23">
-<label>23</label><nlm-citation citation-type="">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[TEIXEIRA]]></surname>
-<given-names><![CDATA[R.]]></given-names>
-</name>
-</person-group>
-<source><![CDATA[Experi�ncias vividas com a leishmaniose visceral, 1954-1980: aspectos epidemiol�gicos, sorol�gicos e evolutivos]]></source>
-<year>1980</year>
-<publisher-loc><![CDATA[Salvador ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B24">
-<label>24</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[TOLEDO]]></surname>
-<given-names><![CDATA[L.M.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Leishmaniose visceral na cidade do Rio de Janeiro: casos cl�nicos do Servi�o de Doen�as Infecciosas e Parasit�rias (DIP) do Hospital Universit�rio, UFRJ]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1981</year>
-<conf-name><![CDATA[27 CONGRESSO BRASILEIRO DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1981</conf-date>
-<conf-loc>Caldas Novas </conf-loc>
-<publisher-loc><![CDATA[Caldas Novas ]]></publisher-loc>
-</nlm-citation>
-</ref>
-<ref id="B25">
-<label>25</label><nlm-citation citation-type="confpro">
-<person-group person-group-type="author">
-<name>
-<surname><![CDATA[TOLEDO]]></surname>
-<given-names><![CDATA[L.M.]]></given-names>
-</name>
-</person-group>
-<article-title xml:lang="pt"><![CDATA[Ocorr�ncia de formas assintom�ticas de leishmaniose visceral humana na localidade de Rio da Prata, Campo Grande, Rio de Janeiro]]></article-title>
-<source><![CDATA[Anais]]></source>
-<year>1983</year>
-<conf-name><![CDATA[19 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
-<conf-date>1983</conf-date>
-<conf-loc>Rio de Janeiro </conf-loc>
-<publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
-</nlm-citation>
-</ref>
-</ref-list>
-</back>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <front>
+    <journal-meta>
+      <journal-id>0102-311X</journal-id>
+      <journal-title><![CDATA[Cadernos de Sa�de P�blica]]></journal-title>
+      <abbrev-journal-title><![CDATA[Cad. Sa�de P�blica]]></abbrev-journal-title>
+      <issn>0102-311X</issn>
+      <publisher>
+        <publisher-name><![CDATA[Escola Nacional de Sa�de P�blica Sergio Arouca, Funda��o Oswaldo Cruz]]></publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id>S0102-311X1985000100002</article-id>
+      <article-id pub-id-type="doi">10.1590/S0102-311X1985000100002</article-id>
+      <title-group>
+        <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral na cidade do Rio de Janeiro - Brasil]]></article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Marzochi]]></surname>
+            <given-names><![CDATA[Mauro Celio de A.]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A01"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Sabroza]]></surname>
+            <given-names><![CDATA[Paulo Chagastelles]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A02"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Toledo]]></surname>
+            <given-names><![CDATA[Luciano Medeiros de]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A03"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Marzochi]]></surname>
+            <given-names><![CDATA[Keyla Bel�zia F.]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A04"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Tramontano]]></surname>
+            <given-names><![CDATA[Neide C�ssia]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A05"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname><![CDATA[Rangel Filho]]></surname>
+            <given-names><![CDATA[Francisco B.]]></given-names>
+          </name>
+          <xref ref-type="aff" rid="A06"/>
+        </contrib>
+      </contrib-group>
+      <aff id="A01">
+        <institution><![CDATA[,Instituto Oswaldo Cruz - FIOCRUZ  ]]></institution>
+        <addr-line><![CDATA[Rio de Janeiro ]]></addr-line>
+      </aff>
+      <aff id="A02">
+        <institution><![CDATA[,FIOCRUZ Escola Nacional de Sa�de P�blica ]]></institution>
+        <addr-line><![CDATA[Rio de Janeiro ]]></addr-line>
+      </aff>
+      <aff id="A03">
+        <institution><![CDATA[,Secretaria Municipal de Sa�de do Rio de Janeiro - SMSRJ  ]]></institution>
+        <addr-line><![CDATA[ ]]></addr-line>
+      </aff>
+      <aff id="A04">
+        <institution><![CDATA[,Universidade Federal do Rio de Janeiro - UFRJ  ]]></institution>
+        <addr-line><![CDATA[ ]]></addr-line>
+      </aff>
+      <aff id="A05">
+        <institution><![CDATA[,Superintend�ncia das Campanhas do Minist�rio da Sa�de - SUCAM-RJ  ]]></institution>
+        <addr-line><![CDATA[ ]]></addr-line>
+      </aff>
+      <aff id="A06">
+        <institution><![CDATA[,Universidade Federal Rural do Rio de Janeiro - UFRRJ  ]]></institution>
+        <addr-line><![CDATA[ ]]></addr-line>
+      </aff>
+      <pub-date pub-type="pub">
+        <day>00</day>
+        <month>03</month>
+        <year>1985</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>00</day>
+        <month>03</month>
+        <year>1985</year>
+      </pub-date>
+      <volume>1</volume>
+      <numero>1</numero>
+      <fpage>5</fpage>
+      <lpage>17</lpage>
+      <copyright-statement/>
+      <copyright-year/>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_abstract&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri>
+      <self-uri xlink:href="http://www.scielo.br/scielo.php?script=sci_pdf&amp;pid=S0102-311X1985000100002&amp;lng=en&amp;nrm=iso"></self-uri>
+      <abstract abstract-type="short" xml:lang="pt">
+        <p><![CDATA[A recente ocorr�ncia de casos humanos e caninos de leishmaniose visceral, aut�ctones de �reas peri-urbanas da cidade do Rio de Janeiro, a partir de 1977, motivou pesquisadores da Escola Nacional de Sa�de P�blica e do Instituto Oswaldo Cruz da Funda��o Oswaldo Cruz (FIOCRUZ), da Universidade Federal do Rio de Janeiro, da Universidade Federal Rural do Rio de Janeiro, da Secretaria Municipal da Sa�de do Rio de Janeiro e da Superintend�ncia das Campanhas do Minist�rio da Sa�de (SUCAM-RJ), a participarem de um programa de estudo dessa zooantroponose, visando a uma abordagem ecol�gica, epidemiol�gica, parasitol�gica, imunol�gica, cl�nico-terap�utica e de avalia��o das medidas de controle adotadas. Resultados gerais dessas pesquisas s�o apresentados na presente comunica��o.]]></p>
+      </abstract>
+      <abstract abstract-type="short" xml:lang="en">
+        <p><![CDATA[Since 1977 autoctonous cases of human and canine visceral Leishmaniasis have occurred in Rio de Janeiro. These cases have been studied by a group from the Escola Nacional de Sa�de P�blica, the Instituto Oswaldo Cruz Funda��o Oswaldo Cruz (FIOCRUZ), the Universidade Federal do Rio de Janeiro, the Universidade Federal Rural do Rio de Janeiro, the Secretaria Municipal de Sa�de do Rio de Janeiro and the Superintend�ncia das Campanhas do Minist�rio da Sa�de (SUCAM-RJ). The zooantroponosis has been subjected to ecological, epidemiological, parasitologica, immunological, clinical and therapeutic studies designed to investigate means of control for the disease. Here we present the general results of this work.]]></p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body><![CDATA[ <p align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ARTIGO</b></font></p><p>&nbsp;</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="4"><b>Leishmaniose    visceral na cidade do Rio de Janeiro &#151; Brasil</b></font></p><p>&nbsp;</p><p>&nbsp;</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>Mauro Celio    de A. Marzochi<sup>I</sup>; Paulo Chagastelles Sabroza<sup>II</sup>; Luciano    Medeiros de Toledo<sup>III</sup>; Keyla Bel&iacute;zia F. Marzochi<sup>IV</sup>;    Neide C&aacute;ssia Tramontano<sup>V</sup>; Francisco B. Rangel Filho<sup>VI</sup></b></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><sup>I</sup>Instituto    Oswaldo Cruz &#151; FIOCRUZ, Rio de Janeiro    <br><sup>II</sup>Escola Nacional de Sa&uacute;de P&uacute;blica &#151; FIOCRUZ,    Rio de Janeiro    <br><sup>III</sup>Secretaria Municipal de Sa&uacute;de do Rio de Janeiro &#151;    SMSRJ    <br><sup>IV</sup>Universidade Federal do Rio de Janeiro &#151; UFRJ    ]]></body>
+  <body><![CDATA[<br><sup>V</sup>Superintend&ecirc;ncia das Campanhas do Minist&eacute;rio da Sa&uacute;de    &#151; SUCAM-RJ    <br><sup>VI</sup>Universidade Federal Rural do Rio de Janeiro &#151; UFRRJ</font></p><p>&nbsp;</p><p>&nbsp;</p><hr size="1" noshade><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>RESUMO</b></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A recente ocorr&ecirc;ncia    de casos humanos e caninos de leishmaniose visceral, aut&oacute;ctones de &aacute;reas    peri-urbanas da cidade do Rio de Janeiro, a partir de 1977, motivou pesquisadores    da Escola Nacional de Sa&uacute;de P&uacute;blica e do Instituto Oswaldo Cruz    da Funda&ccedil;&atilde;o Oswaldo Cruz (FIOCRUZ), da Universidade Federal do    Rio de Janeiro, da Universidade Federal Rural do Rio de Janeiro, da Secretaria    Municipal da Sa&uacute;de do Rio de Janeiro e da Superintend&ecirc;ncia das    Campanhas do Minist&eacute;rio da Sa&uacute;de (SUCAM-RJ), a participarem de    um programa de estudo dessa zooantroponose, visando a uma abordagem ecol&oacute;gica,    epidemiol&oacute;gica, parasitol&oacute;gica, imunol&oacute;gica, cl&iacute;nico-terap&ecirc;utica    e de avalia&ccedil;&atilde;o das medidas de controle adotadas. Resultados gerais    dessas pesquisas s&atilde;o apresentados na presente comunica&ccedil;&atilde;o.</font></p><hr size="1" noshade><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b>ABSTRACT</b></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Since 1977 autoctonous    cases of human and canine visceral Leishmaniasis have occurred in Rio de Janeiro.    These cases have been studied by a group from the Escola Nacional de Sa&uacute;de    P&uacute;blica, the Instituto Oswaldo Cruz Funda&ccedil;&atilde;o Oswaldo Cruz    (FIOCRUZ), the Universidade Federal do Rio de Janeiro, the Universidade Federal    Rural do Rio de Janeiro, the Secretaria Municipal de Sa&uacute;de do Rio de    Janeiro and the Superintend&ecirc;ncia das Campanhas do Minist&eacute;rio da    Sa&uacute;de (SUCAM-RJ). The zooantroponosis has been subjected to ecological,    epidemiological, parasitologica, immunological, clinical and therapeutic studies    designed to investigate means of control for the disease. Here we present the    general results of this work.</font></p><hr size="1" noshade><p>&nbsp;</p><p>&nbsp;</p>     ]]></body>
+  <body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A leishmaniose    visceral (LV) ou Calazar Neotropical, no Brasil, &eacute; uma zooantroponose    peri-urbana e rural. No &acirc;mbito dom&eacute;stico, o c&atilde;o &eacute;    importante reservat&oacute;rio do agente, a <i>Leishmania donovani chagasi,</i>    e respons&aacute;vel pelo car&aacute;ter end&ecirc;mico-epid&ecirc;mico da doen&ccedil;a.    No ambiente silvestre, a raposa <i>Lycalopex vetulus<sup>3</sup></i> e outros    can&iacute;deos como o <i>Cerdocion thous<sup>6</sup></i> s&atilde;o incriminados    como hospedeiros naturais. A &uacute;nica esp&eacute;cie de fleb&oacute;tomo    incriminada na transmiss&atilde;o &eacute; a <i>Lutzomyia longipalpis,</i> cuja    distribui&ccedil;&atilde;o se superp&otilde;e &agrave;s &aacute;reas end&ecirc;micas<sup>3</sup>.    Clinicamente, a doen&ccedil;a humana pouco difere das outras modalidades cl&iacute;nico-epidemiol&oacute;gicas    existentes em outros continentes, incluindo febre, anemia, hepatoesplenomegalia    e emagrecimento de car&aacute;ter progressivo, por&eacute;m muito sens&iacute;vel    ao tratamento pelo antimonial. A taxa de mortalidade dos casos n&atilde;o tratados    varia de 75 a 95%, admitindo-se por&eacute;m a ocorr&ecirc;ncia de formas oligossintom&aacute;ticas    e assintom&aacute;ticas<sup>23</sup>. Segundo o Minist&eacute;rio da Sa&uacute;de    &#151; SUCAM, mais de mil casos humanos v&ecirc;m ocorrendo anualmente no Brasil.    Sua distribui&ccedil;&atilde;o geogr&aacute;fica vai desde o norte da Amaz&ocirc;nia    at&eacute; os estados da regi&atilde;o sudeste, passando pelos da regi&atilde;o    centro-oeste. S&atilde;o mais atingidos os estados da regi&atilde;o nordeste    (97% dos casos), predominando no Cear&aacute;.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Recentemente, al&eacute;m    da recrudesc&ecirc;ncia observada nas &aacute;reas end&ecirc;micas do nordeste,    novos focos t&ecirc;m sido detectados no sul do pa&iacute;s (Paran&aacute;,    3 casos; S&atilde;o Paulo, 2 casos; Rio de Janeiro, 35 casos), sugerindo uma    expans&atilde;o da endemia<sup>11</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar humano    end&ecirc;mico &eacute; mais freq&uuml;ente em crian&ccedil;as, na maioria das    &aacute;reas, correspondendo a menores de 10 anos 80% dos casos, sendo que 60%    ocorrem at&eacute; os 4 anos; &eacute; tamb&eacute;m predominante no sexo masculino<sup>1</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar canino    enzo&oacute;tico &eacute; mais prevalente que o humano e precede a endemia<sup>1</sup>.    &Eacute; de evolu&ccedil;&atilde;o lenta, levando a acentuado emagrecimento,    perda de pelos e apatia, por&eacute;m freq&uuml;entemente assintom&aacute;tico,    embora com alto grau de parasitismo na pele s&atilde; e v&iacute;sceras<sup>3</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A <i>L.</i><i>longipalpis</i>    coloniza facilmente o peridomic&iacute;lio, adaptando-se a temperaturas elevadas    e baixo grau de umidade, sendo o per&iacute;odo de maior transmissibilidade    a esta&ccedil;&atilde;o chuvosa; os insetos invadem o domic&iacute;lio, picando    tanto o homem quanto o c&atilde;o<sup>3</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O aumento verificado    em sua distribui&ccedil;&atilde;o para o sul do pa&iacute;s, em &aacute;reas    onde sua presen&ccedil;a n&atilde;o havia sido notada, justificaria o aparecimento    de novos focos da doen&ccedil;a<sup>22</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O calazar humano,    nunca antes referido na cidade do Rio de Janeiro, foi detectado ali, pela primeira    vez, em 1977<sup>21</sup>. At&eacute; outubro de 1983, 35 casos aut&oacute;ctones    foram diagnosticados em &aacute;reas peri-urbanas da cidade, situadas nas vertentes    continentais norte (bairros de Realengo e Bangu), noroeste (Senador Camar&aacute;),    oeste (Campo Grande) e sudeste (Jacarepagu&aacute;) do Maci&ccedil;o da Pedra    Branca (XVII, XVIII e XXIV RAs) &#151; <a href="/img/revistas/csp/v1n1/02m01.gif">Mapa</a> e    <a href="#figura1">Fig. 1</a>.</font></p><p><a name="figura1"></a></p><p>&nbsp;</p><p align="center"><img src="/img/revistas/csp/v1n1/02f01.gif"></p>     ]]></body>
+  <body><![CDATA[<p>&nbsp;</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O maci&ccedil;o    da Pedra Branca, contraforte da Serra do Mar, situado no Centro do Munic&iacute;pio,    entre os paralelos 22&deg;50' e 23<sup>o</sup>05' e os meridianos 43<sup>o</sup>35'    e 43<sup>o</sup>20', &eacute; um conjunto montanhoso formado por rochas gran&iacute;ticas    e gna&iacute;ssicas, o mais alto do munic&iacute;pio, cujo ponto culminante    &eacute; o Pico da Pedra Branca (1.024m). O clima predominante nas vertentes    norte e noroeste, de maior insola&ccedil;&atilde;o, &eacute; do tipo Aw, com    temperatura m&eacute;dia anual de 27,7&deg;C; a precipita&ccedil;&atilde;o pluviom&eacute;trica    total anual &eacute; maior que 1.400mm, com menos de 60mm nos meses mais secos    (julho e agosto) e a umidade relativa pouco vari&aacute;vel, em tomo de 75&deg;C.    Nas vertentes atl&acirc;nticas, onde a umidade proveniente do mar encontra no    relevo um obst&aacute;culo, acarretando chuvas constantes no sop&eacute;, o    clima predominante nas baixadas &eacute; do tipo Am, mais &uacute;mido, e Af,    chuvoso, nas encostas<sup>19</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Esse maci&ccedil;o,    que parece funcionar como uma barreira ecol&oacute;gica, tem suas vertentes    atl&acirc;nticas voltadas para o bairro de Jacarepagu&aacute; (XVI e XXIV Regi&otilde;es    Administrativas), onde a leishmaniose tegumentar americana (LTA) &eacute; end&ecirc;mica    e bastante antiga, apresentando surtos espor&aacute;dicos. Mais de 500 casos    humanos e mais de 50 casos caninos foram diagnosticados nos &uacute;ltimos 10    anos, e o agente etiol&oacute;gico identificado, bioquimicamente, como <i>Leishmania    braziliensis braziliensis<sup>10</sup>.</i></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As regi&otilde;es    mais atingidas, tanto pela L.V. como L.T.A., s&atilde;o &aacute;reas peri-urbanas,    com caracter&iacute;sticas rurais, geralmente de encostas de morros; a popula&ccedil;&atilde;o    predominante &eacute; de baixa renda, e as habita&ccedil;&otilde;es s&atilde;o    prec&aacute;rias e sem equipamentos sanit&aacute;rios ou ilumina&ccedil;&atilde;o    el&eacute;trica, por&eacute;m fixada &agrave; terra h&aacute; v&aacute;rias    d&eacute;cadas.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A fauna flebotom&iacute;nica,    na vertente norte, &eacute; constitu&iacute;da por um predom&iacute;nio de <i>L.    longipalpis</i> (97,9%) nas cotas de altitude acima de 100m, enquanto, abaixo    de 100m, predomina <i>L. intermedia;</i> na vertente oeste, onde s&atilde;o    tamb&eacute;m referidos casos de LTA, a <i>L. intermedia</i> assume propor&ccedil;&atilde;o    de 82,4%, enquanto <i>L. longipalpis</i> &eacute; de 4,6%, e na vertente litor&acirc;nea    sul, onde apenas ocorre LTA, predomina <i>L. intermedia</i> (92,6%)<sup>6,20,22</sup><i>.</i></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Apesar do pequeno    n&uacute;mero de casos de calazar humano no Rio de Janeiro, o coeficiente de    morbidade nas &aacute;reas de risco chegou a 28,1 por 10.000 hab. em 1981 (Campo    Grande), declinando com as medidas de controle adotadas pela SUCAM (busca ativa    e tratamento dos casos humanos, elimina&ccedil;&atilde;o dos c&atilde;es infectados    e dedetiza&ccedil;&atilde;o dos domic&iacute;lios) e apresentando uma morbidade    m&eacute;dia geral, no per&iacute;odo de 1977 a 1983, de 4,4 por 10.000 hab.    (<a href="/img/revistas/csp/v1n1/02t01.gif">Tabela I</a>). A distribui&ccedil;&atilde;o et&aacute;ria    nas localidades situadas nas vertentes norte (exclusiva de LV) &#151; 19 casos    &#151; correspondeu a 39,3% at&eacute; 9 anos de idade e 60,7% acima dessa faixa;    nas vertentes oeste, (onde tamb&eacute;m ocorre LTA) &#151; 15 casos &#151;    foi de 66,7% abaixo de 9 anos e 33,3% acima de 10 anos. No geral, houve predom&iacute;nio    do sexo masculino (60%). A ocorr&ecirc;ncia de apenas 25,7% dos casos abaixo    de 4 anos e 45,7% acima de 10 anos refor&ccedil;a a possibilidade de implanta&ccedil;&atilde;o    recente da endemia (<a href="#tabela2">Tabela II</a>).</font></p><p><a name="tabela2"></a></p><p>&nbsp;</p><p align="center"><img src="/img/revistas/csp/v1n1/02t02.gif"></p><p>&nbsp;</p>     ]]></body>
+  <body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">De 22 doentes por    n&oacute;s examinados, em 21 (95,5%) evidenciamos <i>Leishmania</i> em material    de mielopun&ccedil;&atilde;o e em 13 (59%) isolamos o parasito em meio de cultivo<sup>12</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Todos apresentaram    sorologia positiva &agrave; imunofluoresc&ecirc;ncia indireta (IF) nas classes    IgG, cujos t&iacute;tulos variaram de 1: 90 a 1: 2800, com tend&ecirc;ncia a    manterem-se elevados por mais de 6 meses<sup>11</sup>. Na classe IgM foram observados    28,5% de resultados falsos positivos, relacionados ao fator reumat&oacute;ide,    embora 35,7% apresentassem anticorpos IgM espec&iacute;ficos<sup>2</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Al&eacute;m da    evidencia&ccedil;&atilde;o de altos n&iacute;veis de imunocomplexos (IC) e ocorr&ecirc;ncia    de ativa&ccedil;&atilde;o policlonal, observou-se estreita associa&ccedil;&atilde;o    entre IC e auto-anticorpos antim&uacute;sculo liso<sup>4</sup>. No estudo da    patog&ecirc;nese da anemia, Pontes de Carvalho et alii<sup>17</sup> sugeriram    a participa&ccedil;&atilde;o de auto-anticorpos eritrocit&aacute;rios ou da    adsor&ccedil;&atilde;o passiva de imunocomplexos pelos eritr&oacute;citos.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A intradermorrea&ccedil;&atilde;o    de Montenegro (IDRM), realizada antes do tratamento, foi, surpreendentemente,    positiva em um paciente de 19 anos, procedente da encosta norte; ap&oacute;s    o tratamento, a IDRM foi positiva em 50% dos indiv&iacute;duos testados, com    tend&ecirc;ncia a permanecer negativa nos indiv&iacute;duos mais jovens<sup>12</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">O tempo referido    da doen&ccedil;a variou de 10 dias a 5 meses; hepatoesplenomegalia e anemia,    presentes em todos os casos, foram de intensidade vari&aacute;vel, sendo que    febre, durante a interna&ccedil;&atilde;o, deixou de ocorrer em apenas um caso    que apresentou ictericia &agrave; admiss&atilde;o; as altera&ccedil;&otilde;es    laboratoriais cl&aacute;ssicas puderam ser observadas na maioria dos casos<sup>24</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Cerca de 25% dos    pacientes apresentaram altera&ccedil;&otilde;es hemorr&aacute;gicas de pele,    antes ou durante o tratamento espec&iacute;fico; nestes, a plaquetopenia, observada    &agrave; interna&ccedil;&atilde;o ou concomitante ao agravamento do quadro hemorr&aacute;gico,    associou-se &agrave; acentuada eleva&ccedil;&atilde;o de imunocomplexos circulantes<sup>8</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Quatro de seis    casos (com idades de 22 a 36 anos), reavaliados clinicamente at&eacute; um ano    ap&oacute;s o diagn&oacute;stico, apresentaram hipertens&atilde;o arterial persistente;    desses, tr&ecirc;s tiveram a forma sintom&aacute;tica e foram tratados ap&oacute;s    comprova&ccedil;&atilde;o diagn&oacute;stica, e um, oligossintom&aacute;tico,    apenas com IF e IDRM positivas, n&atilde;o foi tratado; por&eacute;m, tr&ecirc;s    deles eram irm&atilde;os (um dos quais oligossintom&aacute;tico), com antecedentes    familiares de hipertens&atilde;o<sup>9</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Ao tratamento espec&iacute;fico    feito pela administra&ccedil;&atilde;o endovenosa de Glucantime (Rhodia-CEME),    na dose de 50-100 mg/kg/dia, em dois per&iacute;odos de 10 dias, com 10 dias    de intervalo, n&atilde;o se observou resist&ecirc;ncia &agrave; droga. Os 3    &oacute;bitos ocorridos foram associados ao in&iacute;cio tardio da terap&ecirc;utica    em pacientes com estado geral muito comprometido e agravado por complica&ccedil;&otilde;es    (s&eacute;psis e hemorragia digestiva).</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um inqu&eacute;rito    sorol&oacute;gico canino pela rea&ccedil;&atilde;o de imunofluoresc&ecirc;ncia    indireta, realizado pela SUCAM com colabora&ccedil;&atilde;o da FIOCRUZ, evidenciou    em c&atilde;es de &aacute;reas exclusivamente com LV (Realengo, Bangu e Senador    Camar&aacute;) uma preval&ecirc;ncia de 4,3% de positividade; em c&atilde;es    da &aacute;rea mista de LV e LTA (Campo Grande), uma preval&ecirc;ncia de 12,7%    e em c&atilde;es de Pau da Fome (Jacarepagu&aacute;), na vertente litor&acirc;nea    sudeste do Maci&ccedil;o da Pedra Branca, onde t&ecirc;m ocorrido apenas casos    humanos e caninos de leishmaniose tegumentar, 8,6%.<a name="toponota1"></a><a href="#nota1"><sup>1</sup></a></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Em 40 c&atilde;es    recolhidos das &aacute;reas end&ecirc;micas, com diagn&oacute;stico parasitol&oacute;gico    ou sorol&oacute;gico positivos, observamos que, em 19 c&atilde;es das &aacute;reas    exclusivas de LV, apenas 36,8% apresentavam sinais cl&iacute;nicos sugestivos    da infec&ccedil;&atilde;o (emagrecimento &#151; 100%; infartamento ganglionar    e depila&ccedil;&atilde;o &#151; 85,7%; apatia &#151; 71,4%; ulcera&ccedil;&otilde;es,    descama&ccedil;&otilde;es furfur&aacute;ceas e unhas alongadas &#151; 42,9%);    em 21 c&atilde;es provenientes da &aacute;rea mista de LV e LTA, 76,2% apresentavam    sinais sugestivos, predominando, por&eacute;m, as ulcera&ccedil;&otilde;es de    pele ou mucosas; outros sinais menos freq&uuml;entes, como evacua&ccedil;&otilde;es    sanguinolentas, queratoconjuntivite e paresia, foram observados em ambas as    &aacute;reas; o exame parasitol&oacute;gico, ap&oacute;s necr&oacute;psia dos    40 c&atilde;es, evidenciou <i>Leishmania</i> em 39, sendo 42,5% em v&iacute;sceras    e pele normal, 35% somente em ulcera&ccedil;&otilde;es de pele ou mucosas e    20% somente em v&iacute;sceras; todas as amostras de <i>Leishmania</i> isoladas    da &aacute;rea de Realengo (LV) foram caracterizadas bioquimicamente (isoenzimas,    anticorpos monoclonais e kDNA) como <i>L. donovani chagasi;</i> nas amostras    isoladas da &aacute;rea de Campo Grande (LV + LTA) e caracterizadas pelos mesmos    m&eacute;todos, observou-se tanto <i>L.d. chagasi como L.b. braziliensis;</i>    o tratamento com antimonial (Glucantime) de 3 c&atilde;es positivos aos exames    parasitol&oacute;gicos e sorol&oacute;gicos, por&eacute;m apresentando regular    estado geral, n&atilde;o logrou &ecirc;xito, observando-se, por&eacute;m, agravamento    das manifesta&ccedil;&otilde;es cl&iacute;nicas e morte precoce de um animal.<a name="toponota2"></a><a href="#nota2"><sup>2</sup></a></font></p>     ]]></body>
+  <body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Um inqu&eacute;rito    epidemiol&oacute;gico atrav&eacute;s de exame cl&iacute;nico, IF e IDRM, realizado    em 121 moradores da encosta norte (Serra do Barata &#151; Realengo), excluindo-se    os 11 indiv&iacute;duos que tiveram LV na mesma localidade, evidenciou um caso    sintom&aacute;tico, com confirma&ccedil;&atilde;o parasitol&oacute;gica posterior    e um caso assintom&aacute;tico, com IF e IDRM positivas e sem confirma&ccedil;&atilde;o    parasitol&oacute;gica, al&eacute;m de tr&ecirc;s indiv&iacute;duos &#151; 2,5%    (dois adultos e uma crian&ccedil;a) com apenas IDRM positiva<sup>13</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na encosta oeste    (Rio da Prata &#151; Campo Grande), Toledo et alii<sup>25</sup> aplicaram o    mesmo tipo de inqu&eacute;rito a duas sub&aacute;reas distintas, numa (170 indiv&iacute;duos)    predominando LV e noutra (213 indiv&iacute;duos) predominando LTA; na sub&aacute;rea    de LV, a preval&ecirc;ncia da IDRM (12%) foi constante em todas as faixas et&aacute;rias    e variou de 9,4% a 18,9%, enquanto na sub&aacute;rea de LTA a preval&ecirc;ncia    da IDRM (29%) mostrou comportamento crescente em dire&ccedil;&atilde;o aos grupos    et&aacute;rios mais altos, variando de 5,4% a 50%.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Na sub&aacute;rea    de LV, 75 moradores foram divididos em quatro grupos, de acordo com a ocorr&ecirc;ncia    ou n&atilde;o de casos humanos e caninos em suas resid&ecirc;ncias<sup>25</sup>.    No Grupo I, onde ocorreram casos humanos, a IF foi de zero por cento e a IDRM    de 10%, no Grupo II, onde ocorreram apenas casos caninos, a IF foi de 10,3%    e a IDRM de 13,8%; no Grupo III, onde ocorreram casos humanos e caninos, a IF    foi de 15,4% e a IDRM de 23,1% e, no Grupo IV, onde n&atilde;o ocorreram casos    humanos ou caninos, a IF foi de zero por cento e a IDRM de 3,9%. A presen&ccedil;a    de cinco indiv&iacute;duos (6,6% da popula&ccedil;&atilde;o testada) dos grupos    II e III clinicamente normais, mas positivos &agrave; IF e &agrave; IDRM, sugeriu    a ocorr&ecirc;ncia de formas subcl&iacute;nicas ou oligossintom&aacute;ticas;    o cultivo de mononucleares, separados do sangue perif&eacute;rico em gradiente    de Ficoll-Hypaque, de tr&ecirc;s desses indiv&iacute;duos, mostrou a presen&ccedil;a    de formas promastigotas de <i>Leishmania;</i> no entanto, n&atilde;o se encontrou    <i>Leishmania</i> em material de medula &oacute;ssea, tanto no esfrega&ccedil;o    corado como no cultivo em meio NNN<sup>25</sup></font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A proximidade da    popula&ccedil;&atilde;o da encosta oeste com &aacute;rea onde ocorre a LTA humana    e canina, ao contr&aacute;rio do observado na encosta norte, poderia justificar    a maior preval&ecirc;ncia da IDRM positiva e talvez explicar a menor ocorr&ecirc;ncia    de LV em adultos, sugerindo uma prote&ccedil;&atilde;o imunol&oacute;gica cruzada    dos grupos et&aacute;rios mais velhos pela <i>L. b. braziliensis,</i> uma vez    que a LTA parece ser de implanta&ccedil;&atilde;o mais antiga e a LV mais recente.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Por outro lado,    as formas frustras ou assintom&aacute;ticas n&atilde;o parecem ser raras e,    provavelmente, desempenhem papel de relevo na epidemiologia do calazar.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As amostras de    <i>Leishmania</i> isoladas tanto dos casos humanos, como de casos caninos de    LV, caracterizadas bioquimicamente como L. <i>donovani chagasi,</i> apresentaram    elevado grau de homogeneidade entre elas; foram, no entanto, distintas das amostras    de <i>L. braziliensis braziliensis</i> dos casos de LTA de origem humana e canina,    isoladas no Rio de Janeiro<sup>7,14,16</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Curiosamente, em    Campo Grande, na encosta oeste, observou-se um caso humano de infec&ccedil;&atilde;o    concomitante, visceral e tegumentar, correspondente a uma crian&ccedil;a de    5 anos que previamente apresentara quadro cl&iacute;nico sugestivo de calazar,    veio posteriormente, antes de receber tratamento, a desenvolver les&atilde;o    cut&acirc;nea ulcerada (que coincidiu com o aparecimento de les&atilde;o do    mesmo tipo em uma irm&atilde;);abi&oacute;psia da les&atilde;o cut&acirc;nea    e a pun&ccedil;&atilde;o de medula &oacute;ssea evidenciaram parasitos caracterizados    como <i>L. b. braziliensis</i> e <i>L. d. chagasi,</i> respectivamente<sup>15</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">As tentativas de    encontrar animais silvestres, poss&iacute;veis reservat&oacute;rios de <i>Leishmania,</i>    t&ecirc;m sido infrut&iacute;feras; at&eacute; o momento, 75 roedores de v&aacute;rias    esp&eacute;cies e 13 marsupiais foram examinados, sem resultado positivo (dados    n&atilde;o publicados).</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A distribui&ccedil;&atilde;o    temporal dos casos humanos, segundo a data de diagn&oacute;stico, mostrou uma    freq&uuml;&ecirc;ncia maior entre os meses de maio a agosto. Admitindo-se que    o per&iacute;odo de incuba&ccedil;&atilde;o, somado ao per&iacute;odo de doen&ccedil;a    anterior ao diagn&oacute;stico, seja em torno de 6 meses, &eacute; prov&aacute;vel    que a aquisi&ccedil;&atilde;o da infec&ccedil;&atilde;o ocorra predominantemente    entre os meses de novembro a mar&ccedil;o, correspondentes aos meses mais quentes    do ano, quando a pluviosidade &eacute; tamb&eacute;m maior nas &aacute;reas    de risco (dados n&atilde;o publicados).</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nas &aacute;reas    onde a LV humana ou canina foram detectadas, o Minist&eacute;rio da Sa&uacute;de    (SUCAM &#151; Regional RJ) adotou as cl&aacute;ssicas medidas de controle: busca    ativa e tratamento dos casos humanos, inqu&eacute;rito sorol&oacute;gico canino    com elimina&ccedil;&atilde;o dos c&atilde;es infectados (assintom&aacute;ticos    ou doentes) e dedetiza&ccedil;&atilde;o de todos os domic&iacute;lios e anexos,    repetindo-as semestralmente. Isso reverteu a expectativa de aumento dos casos    (<a href="/img/revistas/csp/v1n1/02t01.gif">Tabela I</a>).</font></p>     ]]></body>
+  <body><![CDATA[<p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A despeito das    in&uacute;meras informa&ccedil;&otilde;es acumuladas, carece ainda de estudos    a determina&ccedil;&atilde;o de fatores ambientais, humanos, sociais, econ&ocirc;micos,    etc, que possam ter influenciado a instala&ccedil;&atilde;o e a propaga&ccedil;&atilde;o    da leishmaniose visceral nas &aacute;reas peri-urbanas da cidade do Rio de Janeiro.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Sabemos que os    desmatamentos no Munic&iacute;pio remontam ao s&eacute;culo XVI, quando da doa&ccedil;&atilde;o    das Sesmarias e in&iacute;cio de planta&ccedil;&otilde;es de cana de a&ccedil;&uacute;car.    O ciclo cafeeiro, a partir do in&iacute;cio do s&eacute;culo XIX, induziu &agrave;    ocupa&ccedil;&atilde;o das encostas do Maci&ccedil;o da Pedra Branca at&eacute;    a cota de 200m, sendo substitu&iacute;do, no in&iacute;cio do s&eacute;culo    XX, pela fruticultura e implementado, a partir de 1930, com o cultivo dos laranjais,    quando os cafezais foram transferidos para o vale do Para&iacute;ba. Com a queda    do com&eacute;rcio de exporta&ccedil;&atilde;o das frutas c&iacute;tricas, nos    anos que precederam a 2<u><sup>a</sup></u> Guerra Mundial, grandes &aacute;reas    passaram a ser utilizadas para o plantio de bananais que, galgando progressivamente    as encostas, atingiram, em algumas &aacute;reas, a altitudes superiores a 500m    e assim se mant&ecirc;m at&eacute; os dias atuais<sup>19</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">No entanto, a Secretaria    Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral, procurando determinar,    com utiliza&ccedil;&atilde;o dos dados de sensoriamente remoto por sat&eacute;lite    (produtos MSS do Landsat), o ritmo atual de desmatamento, demonstrou que a taxa    de crescimento das &aacute;reas desmatadas acima da cota 100, no munic&iacute;pio,    foi de 10,38% no per&iacute;odo de 1972 a 1978; fato esse interpretado como    conseq&uuml;&ecirc;ncia do uso indevido do solo, nos maci&ccedil;os da Pedra    Branca, Tijuca e Gericin&oacute;, apesar da legisla&ccedil;&atilde;o federal    e municipal existente fixar normas de conserva&ccedil;&atilde;o e manuten&ccedil;&atilde;o    de cobertura vegetal nas &aacute;reas de encostas acima da cota 100, ainda remanescentes    da Mata Atl&acirc;ntica<sup>19</sup>.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Nesse per&iacute;odo,    coincidentemente, constatou-se desmatamento longitudinal, cortando de leste    a oeste a reserva florestal do maci&ccedil;o da Pedra Branca &#151; da Esta&ccedil;&atilde;o    de Furnas, instalada em Pau da Fome, Jacarepagu&aacute;, na vertente leste,    at&eacute; Rio da Prata, Campo Grande, na vertente oeste &#151; para a instala&ccedil;&atilde;o    de linhas de transmiss&atilde;o de energia el&eacute;trica. Segundo informa&ccedil;&otilde;es,    v&aacute;rias companhias empreiteras nacionais participaram dessa obra, atrav&eacute;s    do recrutamento de m&atilde;o-de-obra de v&aacute;rias proced&ecirc;ncias, inclusive    do nordeste do Brasil, e mantiveram os empregados residindo no local de trabalho    em unidades de acampamentos m&oacute;veis, ao longo de todo o trajeto.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">A introdu&ccedil;&atilde;o    nessa &aacute;rea do homem ou mesmo do c&atilde;o, provenientes de outras &aacute;reas    end&ecirc;micas e albergando o parasito, poderia justificar a implanta&ccedil;&atilde;o    do mais recente e mais meridional foco de leishmaniose visceral no Pa&iacute;s    associado &agrave; presen&ccedil;a da <i>Lutzomyia longipalpis</i> e &agrave;    infec&ccedil;&atilde;o canina.</font></p><p>&nbsp;</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="3"><b>REFER&Ecirc;NCIAS    BIBLIOGR&Aacute;FICAS</b></font></p><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">1. ALENCAR, J.E.    Leishmaniose visceral no Brasil. <i>R.</i><i>Med. Univ. Fed. Cear&aacute;,    17-18</i> :129-48, 1978.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000070&pid=S0102-311X198500010000200001&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">2. COUTINHO, S.G.    et alii. Anticorpos fluorescentes da classe IgM de imunoglobulinas (IF &#151;    IgM) e fator reumat&oacute;ide na leishmaniose visceral. In: CONGRESSO DA SOCIEDADE    BRASILEIRA DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982<i>. Anais.</i>    Ribeir&atilde;o Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000071&pid=S0102-311X198500010000200002&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">3. DEANE, L.M.    <i>Leishmaniose visceral no Brasil;</i> estudo sobre reservat&oacute;rios e    transmissores realizados no estado do Cear&aacute;. Rio de Janeiro, Servi&ccedil;o    Nacional de Educa&ccedil;&atilde;o Sanit&aacute;ria, 1956.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000072&pid=S0102-311X198500010000200003&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">4. GALV&Atilde;O-CASTRO,    B. et alii. Polyclonal B cell activation circulating immune complexes and autoimmunity    in human american visceral leishmaniasis. <i>Clin. Exp. Immunol., 56 :</i>58-66,    1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000073&pid=S0102-311X198500010000200004&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">5. LAINSON, R.    et alii. Leishmaniasis in Brazil IV. The fox, <i>Cerdocyon thous</i> (L). As    a reservoir of <i>Leishmania donovani</i> In Par&aacute;, State Brazil. <i>Tram.    R. Soc. Trop. Med. Hyg., 63:</i>741-5, 1969.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000074&pid=S0102-311X198500010000200005&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">6. LIMA, L.C.R.    et alii. Flebotom&iacute;neos em &aacute;rea de ocorr&ecirc;ncia de leishmaniose    tegumentar americana no bairro de Campo Grande, Rio de Janeiro, Brasil<i>. R.    Bras. Malariol. D. Trop., 33</i> :64-74, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000075&pid=S0102-311X198500010000200006&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">7. LOPES, V.G.    et alii. Schizodeme and zymodeme characterization of leishmania in the investigation    of foci of visceral and cutaneous leishmaniasis. <i>J. Parasitol., 70,</i> 1984.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000076&pid=S0102-311X198500010000200007&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">8. MARZOCHI, K.B.F.    et alii. Hemorragia de pele e calazar. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982. <i>Anais.</i> Ribeir&atilde;o    Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000077&pid=S0102-311X198500010000200008&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">9. MARZOCHI, K.B.F.    et alii. Hipertens&atilde;o arterial e calazar. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 18. Ribeir&atilde;o Preto, 1982. <i>Anais.</i> Ribeir&atilde;o    Preto, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000078&pid=S0102-311X198500010000200009&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">10. MARZOCHI, M.C.A.    et alii. Evaluation of diagnostic criteria in human and canine mucocutaneous    leishmaniasis in a Rio de Janeiro district where <i>Leishmania braziliensis    braziliensis</i> occurs. In: REUNI&Atilde;O DE PESQUISA B&Aacute;SICA EM DOEN&Ccedil;A    DE CHAGAS, 19. Caxambu, 1982. <i>Anais.</i> Caxambu, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000079&pid=S0102-311X198500010000200010&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">11. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral-calazar<i>. J. bras. Med., 41</i> :69-84,1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000080&pid=S0102-311X198500010000200011&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">12. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral no Rio de Janeiro; aspectos epidemiol&oacute;gicos    humanos. In: CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 19. Rio    de Janeiro, 1983. <i>Anais.</i> Rio de Janeiro, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000081&pid=S0102-311X198500010000200012&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">13. MARZOCHI, M.C.A.    et alii. Leishmaniose visceral no Rio de Janeiro. III &#151; Inqu&eacute;rito    epidemiol&oacute;gico pela imunofluoresc&ecirc;ncia e intradermorrea&ccedil;&atilde;o    em &aacute;rea de risco de transmiss&atilde;o. In: CONGRESSO DA SOCIEDADE BRASILEIRA    DE MEDICINA TROPICAL, 17. Caldas Novas, 1981. <i>Anais.</i> Caldas Novas, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000082&pid=S0102-311X198500010000200013&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">14. MOMEN, H. Identification    of new world leishmania isolates by agarose gel eletrophoresis and polyacrylamide    gel soelectrofocusing<i>. J. Cell. Biochem., 70</i> (Supl. 7A):29, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000083&pid=S0102-311X198500010000200014&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">15. OLIVEIRA NETO,    M. et alii. Concurrent human infection with <i>Leishmania donovani</i> and <i>L.    braziliensis</i><i>braziliensis.</i> In: REUNI&Atilde;O ANUAL DE PESQUISA B&Aacute;SICA    EM DOEN&Ccedil;A DE CHAGAS, 19. Caxambu, 1982<i>.Anais.</i> Caxambu, 1982.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000084&pid=S0102-311X198500010000200015&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">16. PACHECO, R.S.    et alii. A comparative biochemical analysis of isolates of visceral leishmaniasis    from the states of Bahia and Rio de Janeiro. In: JAPAN-BRASIL SYMPOSIUM ON SCIENCE    AND TECHNOLOGY, 4. <i>Proceedings.</i> S&atilde;o Paulo, Academia de Ci&ecirc;ncias,    CNPq, 1984. v. 2. p. 58-70.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000085&pid=S0102-311X198500010000200016&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">17. PONTES DE CARVALHO,    L. et alii. The pathogenesis on anaemia in american visceral leishmaniasis (AVL).    In: INTERNATIONAL CONGRESS OF IMMUNOLOGY, 5. Kyoto, 1983. <i>Abstracts.</i>    Kyoto, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000086&pid=S0102-311X198500010000200017&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">18. RIO DE JANEIRO    (cidade). Secretaria Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral.    <i>Diagn&oacute;stico do desmatamento nos maci&ccedil;os da Tijuca, Pedra Branca    e Gericin&oacute;.</i> Rio de Janeiro, 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000087&pid=S0102-311X198500010000200018&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">19. RIO DE JANEIRO    (cidade). Secretaria Municipal de Planejamento e Coordena&ccedil;&atilde;o Geral.    <i>Informa&ccedil;&otilde;es b&aacute;sicas da cidade do Rio de Janeiro.</i>    Rio de Janeiro, 1979.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000088&pid=S0102-311X198500010000200019&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">20. SABROZA, P.    C. <i>O domic&iacute;lio como fator de risco na</i><i>leishmaniose tegumentar    americana;</i> estudo epidemiol&oacute;gico em Jacarepagu&aacute;, munic&iacute;pio    do Rio de Janeiro. Rio de Janeiro, 1981. (Disserta&ccedil;&atilde;o de Mestrado    &#151; Escola Nacional de Sa&uacute;de P&uacute;blica, FIOCRUZ)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000089&pid=S0102-311X198500010000200020&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">21. SABROZA, P.C.    et alii. Flebotom&iacute;neos na cidade do Rio de Janeiro. In: CONGRESSO DA    SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 14 &amp; CONGRESSO DA SOCIEDADE BRASILEIRA    DE PARASITOLOGIA, 3. Jo&atilde;o Pessoa, 1978. <i>Anais.</i> Jo&atilde;o Pessoa,    1978.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000090&pid=S0102-311X198500010000200021&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">22. SOUZA, M.A.    et alii. Leishmania visceral no Rio de Janeiro, 1 &#151; Flebotom&iacute;neos    da &aacute;rea de proced&ecirc;ncia de caso humano aut&oacute;ctone. <i>Mem.    Inst. Oswaldo Cruz, 76</i> (2) :161-8, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000091&pid=S0102-311X198500010000200022&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">23. TEIXEIRA, R.    <i>Experi&ecirc;ncias vividas com a leishmaniose</i><i>visceral, 1954-1980;</i>    aspectos epidemiol&oacute;gicos, sorol&oacute;gicos e evolutivos. Salvador,    1980. (Tese &#151; Universidade Federal da Bahia)</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000092&pid=S0102-311X198500010000200023&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">24. TOLEDO, L.M.    et alii. Leishmaniose visceral na cidade do Rio de Janeiro; casos cl&iacute;nicos    do Servi&ccedil;o de Doen&ccedil;as Infecciosas e Parasit&aacute;rias (DIP)    do Hospital Universit&aacute;rio, UFRJ. In: CONGRESSO BRASILEIRO DE MEDICINA    TROPICAL, 27. Caldas Novas, 1981. <i>Anais.</i> Caldas Novas, 1981.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000093&pid=S0102-311X198500010000200024&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><!-- ref --><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">25. TOLEDO, L.M.    et alii. Ocorr&ecirc;ncia de formas assintom&aacute;ticas de leishmaniose visceral    humana na localidade de Rio da Prata, Campo Grande, Rio de Janeiro. In: CONGRESSO    DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL, 19. Rio de Janeiro, 1983. <i>Anais.</i>    Rio de Janeiro, 1983.</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[&#160;<a href="javascript:void(0);" onclick="javascript: window.open('/scielo.php?script=sci_nlinks&ref=000094&pid=S0102-311X198500010000200025&lng=','','width=640,height=500,resizable=yes,scrollbars=1,menubar=yes,');">Links</a>&#160;]<!-- end-ref --><p>&nbsp;</p><p>&nbsp;</p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="nota1"></a><a href="#toponota1">1</a>    COUTINHO, S. G. et alii. A survey of visceral and cutaneous leishmaniasis among    1.342 dogs from areas in Rio de Janeiro (Brazil) where the human disease occurs.    Trabalho aceito para publica&ccedil;&atilde;o nas Mem. Inst. Oswaldo Cruz.</font></p><p><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a name="nota2"></a><a href="#toponota2">2</a>    MARZOCHI, M.C.A. et alii. Leishmaniose visceral canina no Rio de Janeiro, Brasil.    Aspectos cl&iacute;nico-parasitol&oacute;gicos e epidemiol&oacute;gicos observados    (1977-1983). Trabalho em preparo.</font></p>      ]]></body>
+  <back>
+    <ref-list>
+      <ref id="B1">
+        <label>1</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[ALENCAR]]></surname>
+              <given-names><![CDATA[J.E.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Brasil]]></article-title>
+          <source><![CDATA[R. Med. Univ. Fed. Cear�]]></source>
+          <year>1978</year>
+          <volume>17</volume>
+          <volume>18</volume>
+          <page-range>129-48</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B2">
+        <label>2</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[COUTINHO]]></surname>
+              <given-names><![CDATA[S.G.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Anticorpos fluorescentes da classe IgM de imunoglobulinas (IF - IgM) e fator reumat�ide na leishmaniose visceral]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1982</year>
+          <conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1982</conf-date>
+          <conf-loc>Ribeir�o Preto </conf-loc>
+          <publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B3">
+        <label>3</label>
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[DEANE]]></surname>
+              <given-names><![CDATA[L.M.]]></given-names>
+            </name>
+          </person-group>
+          <source><![CDATA[Leishmaniose visceral no Brasil: estudo sobre reservat�rios e transmissores realizados no estado do Cear�]]></source>
+          <year>1956</year>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+          <publisher-name><![CDATA[Servi�o Nacional de Educa��o Sanit�ria]]></publisher-name>
+        </nlm-citation>
+      </ref>
+      <ref id="B4">
+        <label>4</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[GALV�O-CASTRO]]></surname>
+              <given-names><![CDATA[B.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[Polyclonal B cell activation circulating immune complexes and autoimmunity in human american visceral leishmaniasis]]></article-title>
+          <source><![CDATA[Clin. Exp. Immunol.]]></source>
+          <year>1984</year>
+          <volume>56</volume>
+          <page-range>58-66</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B5">
+        <label>5</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[LAINSON]]></surname>
+              <given-names><![CDATA[R.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[Leishmaniasis in Brazil: IV. The fox, Cerdocyon thous (L). As a reservoir of Leishmania donovani In Par�, State Brazil]]></article-title>
+          <source><![CDATA[Tram. R. Soc. Trop. Med. Hyg.]]></source>
+          <year>1969</year>
+          <volume>63</volume>
+          <page-range>741-5</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B6">
+        <label>6</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[LIMA]]></surname>
+              <given-names><![CDATA[L.C.R.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Flebotom�neos em �rea de ocorr�ncia de leishmaniose tegumentar americana no bairro de Campo Grande, Rio de Janeiro, Brasil]]></article-title>
+          <source><![CDATA[R. Bras. Malariol. D. Trop.]]></source>
+          <year>1981</year>
+          <volume>33</volume>
+          <page-range>64-74</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B7">
+        <label>7</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[LOPES]]></surname>
+              <given-names><![CDATA[V.G.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[Schizodeme and zymodeme characterization of leishmania in the investigation of foci of visceral and cutaneous leishmaniasis]]></article-title>
+          <source><![CDATA[J. Parasitol.]]></source>
+          <year>1984</year>
+          <volume>70</volume>
+        </nlm-citation>
+      </ref>
+      <ref id="B8">
+        <label>8</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[K.B.F.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Hemorragia de pele e calazar]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1982</year>
+          <conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1982</conf-date>
+          <conf-loc>Ribeir�o Preto </conf-loc>
+          <publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B9">
+        <label>9</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[K.B.F.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Hipertens�o arterial e calazar]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1982</year>
+          <conf-name><![CDATA[18 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1982</conf-date>
+          <conf-loc>Ribeir�o Preto </conf-loc>
+          <publisher-loc><![CDATA[Ribeir�o Preto ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B10">
+        <label>10</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[M.C.A.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[Evaluation of diagnostic criteria in human and canine mucocutaneous leishmaniasis in a Rio de Janeiro district where Leishmania braziliensis braziliensis occurs]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1982</year>
+          <conf-name><![CDATA[19 REUNI�O DE PESQUISA B�SICA EM DOEN�A DE CHAGAS]]></conf-name>
+          <conf-date>1982</conf-date>
+          <conf-loc>Caxambu </conf-loc>
+          <publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B11">
+        <label>11</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[M.C.A.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral-calazar]]></article-title>
+          <source><![CDATA[J. bras. Med.]]></source>
+          <year>1981</year>
+          <volume>41</volume>
+          <page-range>69-84</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B12">
+        <label>12</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[M.C.A.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Rio de Janeiro: aspectos epidemiol�gicos humanos]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1983</year>
+          <conf-name><![CDATA[19 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1983</conf-date>
+          <conf-loc>Rio de Janeiro </conf-loc>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B13">
+        <label>13</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[MARZOCHI]]></surname>
+              <given-names><![CDATA[M.C.A.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral no Rio de Janeiro: III - Inqu�rito epidemiol�gico pela imunofluoresc�ncia e intradermorrea��o em �rea de risco de transmiss�o]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1981</year>
+          <conf-name><![CDATA[17 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1981</conf-date>
+          <conf-loc>Caldas Novas </conf-loc>
+          <publisher-loc><![CDATA[Caldas Novas ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B14">
+        <label>14</label>
+        <nlm-citation citation-type="">
+          <source><![CDATA[]]></source>
+          <year></year>
+        </nlm-citation>
+      </ref>
+      <ref id="B15">
+        <label>15</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[OLIVEIRA NETO]]></surname>
+              <given-names><![CDATA[M.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[Concurrent human infection with Leishmania donovani and L. braziliensis braziliensis]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1982</year>
+          <conf-name><![CDATA[19 REUNI�O ANUAL DE PESQUISA B�SICA EM DOEN�A DE CHAGAS]]></conf-name>
+          <conf-date>1982</conf-date>
+          <conf-loc>Caxambu </conf-loc>
+          <publisher-loc><![CDATA[Caxambu ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B16">
+        <label>16</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[PACHECO]]></surname>
+              <given-names><![CDATA[R.S.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[A comparative biochemical analysis of isolates of visceral leishmaniasis from the states of Bahia and Rio de Janeiro]]></article-title>
+          <source><![CDATA[Proceedings]]></source>
+          <year>1984</year>
+          <volume>2</volume>
+          <conf-name><![CDATA[4 JAPAN-BRASIL SYMPOSIUM ON SCIENCE AND TECHNOLOGY]]></conf-name>
+          <conf-loc></conf-loc>
+          <page-range>58-70</page-range>
+          <publisher-loc><![CDATA[S�o Paulo ]]></publisher-loc>
+          <publisher-name><![CDATA[Academia de Ci�nciasCNPq]]></publisher-name>
+        </nlm-citation>
+      </ref>
+      <ref id="B17">
+        <label>17</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[PONTES DE CARVALHO]]></surname>
+              <given-names><![CDATA[L.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="en"><![CDATA[The pathogenesis on anaemia in american visceral leishmaniasis (AVL)]]></article-title>
+          <source><![CDATA[Abstracts]]></source>
+          <year>1983</year>
+          <conf-name><![CDATA[5 INTERNATIONAL CONGRESS OF IMMUNOLOGY]]></conf-name>
+          <conf-date>1983</conf-date>
+          <conf-loc>Kyoto </conf-loc>
+          <publisher-loc><![CDATA[Kyoto ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B18">
+        <label>18</label>
+        <nlm-citation citation-type="">
+          <collab>RIO DE JANEIRO^dSecretaria Municipal de Planejamento e Coordena��o Geral</collab>
+          <source><![CDATA[Diagn�stico do desmatamento nos maci�os da Tijuca, Pedra Branca e Gericin�]]></source>
+          <year>1979</year>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B19">
+        <label>19</label>
+        <nlm-citation citation-type="">
+          <collab>RIO DE JANEIRO^dSecretaria Municipal de Planejamento e Coordena��o Geral</collab>
+          <source><![CDATA[Informa��es b�sicas da cidade do Rio de Janeiro]]></source>
+          <year>1979</year>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B20">
+        <label>20</label>
+        <nlm-citation citation-type="">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[SABROZA]]></surname>
+              <given-names><![CDATA[P. C.]]></given-names>
+            </name>
+          </person-group>
+          <source><![CDATA[O domic�lio como fator de risco na leishmaniose tegumentar americana: estudo epidemiol�gico em Jacarepagu�, munic�pio do Rio de Janeiro]]></source>
+          <year>1981</year>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B21">
+        <label>21</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[SABROZA]]></surname>
+              <given-names><![CDATA[P.C.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Flebotom�neos na cidade do Rio de Janeiro]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1978</year>
+          <conf-name><![CDATA[143 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICALCONGRESSO DA SOCIEDADE BRASILEIRA DE PARASITOLOGIA]]></conf-name>
+          <conf-date>1978</conf-date>
+          <conf-loc>Jo�o Pessoa </conf-loc>
+          <publisher-loc><![CDATA[Jo�o Pessoa ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B22">
+        <label>22</label>
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[SOUZA]]></surname>
+              <given-names><![CDATA[M.A.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmania visceral no Rio de Janeiro: 1 - Flebotom�neos da �rea de proced�ncia de caso humano aut�ctone]]></article-title>
+          <source><![CDATA[Mem. Inst. Oswaldo Cruz]]></source>
+          <year>1981</year>
+          <volume>76</volume>
+          <numero>2</numero>
+          <issue>2</issue>
+          <page-range>161-8</page-range>
+        </nlm-citation>
+      </ref>
+      <ref id="B23">
+        <label>23</label>
+        <nlm-citation citation-type="">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[TEIXEIRA]]></surname>
+              <given-names><![CDATA[R.]]></given-names>
+            </name>
+          </person-group>
+          <source><![CDATA[Experi�ncias vividas com a leishmaniose visceral, 1954-1980: aspectos epidemiol�gicos, sorol�gicos e evolutivos]]></source>
+          <year>1980</year>
+          <publisher-loc><![CDATA[Salvador ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B24">
+        <label>24</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[TOLEDO]]></surname>
+              <given-names><![CDATA[L.M.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Leishmaniose visceral na cidade do Rio de Janeiro: casos cl�nicos do Servi�o de Doen�as Infecciosas e Parasit�rias (DIP) do Hospital Universit�rio, UFRJ]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1981</year>
+          <conf-name><![CDATA[27 CONGRESSO BRASILEIRO DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1981</conf-date>
+          <conf-loc>Caldas Novas </conf-loc>
+          <publisher-loc><![CDATA[Caldas Novas ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+      <ref id="B25">
+        <label>25</label>
+        <nlm-citation citation-type="confpro">
+          <person-group person-group-type="author">
+            <name>
+              <surname><![CDATA[TOLEDO]]></surname>
+              <given-names><![CDATA[L.M.]]></given-names>
+            </name>
+          </person-group>
+          <article-title xml:lang="pt"><![CDATA[Ocorr�ncia de formas assintom�ticas de leishmaniose visceral humana na localidade de Rio da Prata, Campo Grande, Rio de Janeiro]]></article-title>
+          <source><![CDATA[Anais]]></source>
+          <year>1983</year>
+          <conf-name><![CDATA[19 CONGRESSO DA SOCIEDADE BRASILEIRA DE MEDICINA TROPICAL]]></conf-name>
+          <conf-date>1983</conf-date>
+          <conf-loc>Rio de Janeiro </conf-loc>
+          <publisher-loc><![CDATA[Rio de Janeiro ]]></publisher-loc>
+        </nlm-citation>
+      </ref>
+    </ref-list>
+  </back>
 </article>
