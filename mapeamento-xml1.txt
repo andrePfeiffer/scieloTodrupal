@@ -1,0 +1,93 @@
+<articlcle>
+  <font>
+    <journal-meta>
+      journal-id - string
+      journal-title - string
+      abbrev-journal-title - string
+      issn - numero
+
+      <publisher>
+        publisher-name - string
+      </publisher>
+    </journal-meta>
+
+    <article-meta>
+      article-id - string (não oficial)
+      article-id pub-id-type="doi" - string
+
+      <title-group>
+        article-title xml:lang="pt" - string
+        article-title xml:lang="en" - string
+        article-title xml:lang="es" - string
+      </title-group>
+
+      <contrib-group>
+        <contrib contrib-type="author"> -- Esse bloco pode se repetir N vezes
+          <name>
+            surname - string
+            given-names - string
+          </name>
+          <xref ref-type="aff" rid="Aff"/>
+        </contrib>
+      </contrib-group>
+
+      <aff id="Af(N)">  -- Esse bloco pode se repetir N vezes
+        institution -string
+        addr-line - string
+        country - string
+      </aff>
+
+      <pub-date pub-type="pub">
+        day - inteiro 2 digitos
+        month - inteiros de até 2 dígitos no intervalo de 01 a 12
+        year - inteiros de 4 digitos
+      </pub-date>
+
+      <pub-date pub-type="epub">
+        day - inteiro 2 digitos
+        month - inteiros de até 2 dígitos no intervalo de 01 a 12
+        year - inteiros de 4 digitos
+      </pub-date>
+
+      volume - inteiro
+      numero - inteiro
+      copyright-statement - string
+      copyright-year - inteiros de 4 digitos
+
+      self-uri - string (não encontrada na doc)
+      abstract (não encontrado na doc como no XML - Ref: http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/1.4-branch/tagset/elemento-abstract.html)
+
+      <kwd-group>
+        kwd - string (pode se repetir - na doc está formatado diferente -  Ref: http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/1.7-branch/tagset/elemento-kwd.html)
+      </kwd-group>
+
+    </article-meta>
+  </font>
+  <back>
+    <ref-list>
+      <ref id="B(N)"> - Esse bloco pode se repetir N vezes
+        <label>1</label>
+        <nlm-citation citation-type="book">        
+          <person-group person-group-type="author">
+            <name> - Esse bloco pode se repetir N vezes
+              surname - string
+              given-names - string
+            </name>
+          </person-group>
+          article-title - string
+          collab - string
+          source - string
+          year - inteiros de 4 digitos
+          month - (não encontrado na doc como no XML - Ref: http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/1.7-branch/tagset/elemento-back.html)
+          publisher-loc - string
+          publisher-name - string
+          page-range - string ()
+          edition - string
+          numero - string (não encontrado na doc como no XML - Ref: http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/1.7-branch/tagset/elemento-back.html)
+          issue - string (número do fasciculo)
+          supplement - string (não encontrado na doc como no XML - Ref: http://docs.scielo.org/projects/scielo-publishing-schema/pt_BR/1.7-branch/tagset/elemento-back.html)
+        </nlm-citation>
+      </ref>
+    </ref-list>
+  </back>
+</articlcle>
